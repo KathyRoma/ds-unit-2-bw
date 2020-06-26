@@ -1,0 +1,1057 @@
+client,site,"date
+scans",control photoscan,accuracy cameras,camera model,resolution,number of photos,"Average camera location error, cm","fact accuracy in photoscans,cm",image overlap,fractional dem-diff,fractional dd colours,volume control,monitoring area,result,
+independent-construction,russell-ranch,2018-07-03,,10.00,FC350 (3.61 mm),4000 x 3000,714,401,11.7,,,,,,acceptable,18 minutes 51 seconds
+fivepoint,mission-village,2018-07-03,,10.00,FC350 (3.61 mm),4000 x 3000,2294,554,4.3,,,,,,bad,1 hours 15 minutes
+independent-construction,skyline,2018-07-05,,10.00,FC350 (3.61 mm),4000 x 3000,1292,539,6.7,,,,,,good,38 minutes 21 seconds
+landsea,sanctuary,2018-07-03,,-,FC6310 (8.8 mm),4864 x 3648,222,633,5.1,,,,,,acceptable,3 minutes 25 seconds
+independent-construction,river-islands,2018-07-05,,-,FC350 (3.61 mm),4000 x 3000,944,525,11.3,,,,,,good,40 minutes 40 seconds
+stice,d5-ph-1-grading,2018-07-05,,-,FC350 (3.61 mm),4000 x 3000,1567,595,6.2,,,,,,good,1 hours 11 minutes
+sitelens,delaney-cove,2018-07-03,,-,FC6310 (8.8 mm),5472 x 3648,824,314,2.5,,,,,,acceptable,25 minutes 30 seconds
+fivepoint,mission-village,2018-07-09,,-,FC350 (3.61 mm),4000 x 3000,2311,534,4.2,,,,,,good,1 hours 14 minutes
+independent-construction,wilder-orinda,2018-07-10,,-,FC350 (3.61 mm),4000 x 3000,122,392,3.2,,,,,,good,1 minutes 13 seconds
+independent-construction,russell-ranch,2018-07-10,,-,FC350 (3.61 mm),4000 x 3000,712,454,12.6,,,,,,acceptable,15 minutes 10 seconds
+independent-construction,faria-ranch,2018-07-10,,-,FC350 (3.61 mm),4000 x 3000,386,428,10.2,,,,,,good,8 minutes 18 seconds
+landsea,sanctuary,2018-07-10,,-,FC6310 (8.8 mm),4864 x 3648,222,600,3.7,,,,,,acceptable,4 minutes 16 seconds
+independent-construction,skyline,2018-07-12,good,-,FC350 (3.61 mm),4000 x 3000,1147,555,7.3,good overlapping,normal,,,,good,36 minutes 44 seconds
+independent-construction,faria-ranch,2018-07-12,,-,FC350 (3.61 mm),4000 x 3000,523,456,8.4,,,,,,bad,12 minutes 15 seconds
+fivepoint,district-5,2018-07-14,,-,FC350 (3.61 mm),4000 x 3000,1538,622,6.8,,,,,,good,56 minutes 2 seconds
+fivepoint,mission-village,2018-07-16,good,-,FC350 (3.61 mm),4000 x 3000,2281,506,4.2,good overlapping,normal,,normal,,good,1 hours 4 minutes
+lennar,lafayette,2018-07-16,,-,FC350 (3.61 mm),4000 x 3000,72,238,6.0,,,,,,acceptable,57 seconds
+independent-construction,gilbert-property-phase-1,2018-07-16,,-,FC350 (3.61 mm),4000 x 3000,446,422,10.8,,,,,,good,16 minutes 35 seconds
+independent-construction,russell-ranch,2018-07-17,good,-,FC350 (3.61 mm),4000 x 3000,710,427,13.2,good overlapping,normal,,normal,,acceptable,16 minutes 31 seconds
+sitelens,bear-creek,2018-07-17,,-,FC220 (4.73 mm),4000 x 3000,226,857,8.3,,,,,,acceptable,7 minutes 7 seconds
+independent-construction,wilder-orinda,2018-07-18,good,-,FC350 (3.61 mm),4000 x 3000,117,300,4.5,good overlapping,normal,,normal,,good,1 minutes 3 seconds
+independent-construction,river-islands,2018-07-24,bad,-,FC350 (3.61 mm),4000 x 3000,943,535,9.9,good overlapping,bad,,bad,,bad,37 minutes 52 seconds
+independent-construction,skyline,2018-07-19,good,-,FC350 (3.61 mm),4000 x 3000,1257,524,7.5,good overlapping,bad slopes,,strange,,good,43 minutes 16 seconds
+landsea,sanctuary,2018-07-19,good,-,-,-,-,-,-,problematic overlap,-,,-,,bad,-
+landsea,sanctuary,2018-07-20,good,-,-,-,-,-,-,problematic overlap,-,,-,,bad,-
+lennar,lafayette,2018-07-23,good,-,FC350 (3.61 mm),4000 x 3000,71,438,6.1,>9,good,,good,,good,47 seconds
+fivepoint,mission-village,2018-07-24,normal,-,FC350 (3.61 mm),4000 x 3000,2768,521,5.6,good overlapping,normal,,good,,acceptable,1 hours 40 minutes
+independent-construction,russell-ranch,2018-07-24,good,-,FC350 (3.61 mm),4000 x 3000,714,415,8.0,>9,orange,,good,,good,22 minutes 30 seconds
+lennar,innovation-village,2018-07-20,good,-,FC350 (3.61 mm),4000 x 3000,367,399,6.0,>9,normal,,good,,good,11 minutes 42 seconds
+independent-construction,river-islands,2018-07-24,,-,FC350 (3.61 mm),4000 x 3000,943,535,9.9,,,,,,good,37 minutes 52 seconds
+landsea,sanctuary,2018-07-24,,-,FC350 (3.61 mm),4000 x 3000,261,442,7.8,,,,,,acceptable,8 minutes 51 seconds
+independent-construction,skyline,2018-07-26,good,-,FC350 (3.61 mm),4000 x 3000,1215,528,7.1,good overlapping,,,,,good,34 minutes 5 seconds
+sitelens,bear-creek,2018-07-25,bad,-,FC220 (4.73 mm),4000 x 3000,227,1317,288.2,good overlapping,bad,,bad,,bad,7 minutes 43 seconds
+stice,d5-ph-1-grading,2018-07-30,good,-,FC350 (3.61 mm),4000 x 3000,1586,542,6.5,good overlapping,good,,good,,good,58 minutes 50 seconds
+sitelens,bear-creek,2018-07-30,good,-,FC6310S (8.8 mm),5472 x 3648,175,47,1.5,good overlapping,bad,,-,,good,2 minutes 20 seconds
+fivepoint,mission-village,2018-07-30,normal,-,FC350 (3.61 mm),4000 x 3000,2127,508,187.8,good overlapping,normal,,good,,acceptable,1 hours 26 minutes
+independent-construction,russell-ranch,2018-07-31,,-,FC350 (3.61 mm),4000 x 3000,751,421,10.5,,,,,,acceptable,18 minutes 27 seconds
+independent-construction,faria-ranch,2018-07-31,good,-,FC350 (3.61 mm),4000 x 3000,552,425,7.8,good overlapping,bad,,normal,,acceptable,14 minutes 51 seconds
+independent-construction,skyline,2018-08-02,good,-,FC350 (3.61 mm),4000 x 3000,1183,529,7.1,good overlapping,good,,good,,good,35 minutes 25 seconds
+independent-construction,river-islands,2018-08-02,normal,-,FC350 (3.61 mm),4000 x 3000,964,494,11.6,good overlapping,good,,good,,good,32 minutes 58 seconds
+lennar,gateway,2018-08-03,good,-,FC350 (3.61 mm),4000 x 3000,346,432,5.7,good overlapping,bad,,normal,,acceptable,11 minutes 2 seconds
+lennar,innovation-village,2018-03-08,good,-,FC350 (3.61 mm),4000 x 3000,390,370,10.9,good overlapping,normal,,normal,,acceptable,13 minutes 2 seconds
+stice,gateway-disposal,2018-08-02,good,-,FC350 (3.61 mm),4000 x 3000,321,447,7.1,good overlapping,-,,-,,acceptable,7 minutes 16 seconds
+fivepoint,mission-village,2018-08-06,good,-,FC350 (3.61 mm),4000 x 3000,2179,533,5.2,good overlapping,normal,red,good,,acceptable,1 hours 18 minutes
+independent-construction,russell-ranch,2018-08-07,normal,-,FC350 (3.61 mm),4000 x 3000,753,401,10.6,good overlapping,good,white,good,,acceptable,20 minutes 14 seconds
+independent-construction,skyline,2018-08-09,good,-,FC350 (3.61 mm),4000 x 3000,1228,581,7.5,good overlapping,good,white,good,,good,40 minutes 20 seconds
+vertex-survey,sunshine-landfill,2018-08-10,good,-,FC6310 (8.8 mm),5472 x 3648,261,773,1.5,problematic overlap,-,-,-,,good,2 minutes 8 seconds
+independent-construction,gilbert-property-phase-1,2018-08-10,good,-,FC350 (3.61 mm),4000 x 3000,420,461,8.5,good overlapping,normal,red,normal,,acceptable,16 minutes 27 seconds
+fivepoint,mission-village,2018-08-13,good,-,FC350 (3.61 mm),4000 x 3000,2007,506,5.9,problematic overlap,normal,,,,acceptable,1 hours 8 minutes
+landsea,sanctuary,2018-08-08,good,-,FC6310 (8.8 mm),4864 x 3648,223,645,2.0,problematic overlap,normal,blue,good,,acceptable,3 minutes 20 seconds
+independent-construction,russell-ranch,2018-08-14,good,-,FC350 (3.61 mm),4000 x 3000,781,377,7.7,good overlapping,normal,red,good,,acceptable,19 minutes 34 seconds
+stice,d5-ph-1-grading,2018-08-14,good,-,FC350 (3.61 mm),4000 x 3000,1553,522,6.5,good overlapping,good,red,normal,,good,51 minutes 56 seconds
+independent-construction,river-islands,2018-08-14,normal,-,FC350 (3.61 mm),4000 x 3000,995,505,10.1,good overlapping,good,,good,,good,39 minutes 22 seconds
+independent-construction,aviano-subdivision,2018-08-15,normal,-,FC350 (3.61 mm),4000 x 3000,424,459,12.7,good overlapping,-,-,-,,good,16 minutes 31 seconds
+stice,gateway-disposal,2018-08-15,normal,-,FC350 (3.61 mm),4000 x 3000,360,403,6.3,good overlapping,normal,red,-,,acceptable,8 minutes 55 seconds
+sitelens,university-of-houston,2018-08-15,good,-,FC6310S (8.8 mm),4864 x 3648,216,63,2.3,good overlapping,bad,red,-,,good,2 minutes 18 seconds
+independent-construction,faria-ranch,2018-08-16,good,-,FC350 (3.61 mm),4000 x 3000,526,420,7.0,good overlapping,bad,,normal,,bad,13 minutes 34 seconds
+independent-construction,skyline,2018-08-16,good,-,FC350 (3.61 mm),4000 x 3000,1179,535,7.0,problematic overlap,normal,blue,normal,,acceptable,42 minutes 28 seconds
+sitelens,delaney-cove,2018-08-16,good,-,FC6310S (8.8 mm),5472 x 3648,861,141,2.6,good overlapping,normal,white,-,,good,19 minutes 31 seconds
+lennar,innovation-village,2018-08-17,good,-,FC350 (3.61 mm),4000 x 3000,382,424,7.3,good overlapping,normal,white,good,,good,12 minutes 20 seconds
+fivepoint,mission-village,2018-08-20,good,-,FC350 (3.61 mm),4000 x 3000,2360,499,5.6,good overlapping,good,blue,normal,,acceptable,1 hours 19 minutes
+landsea,sanctuary,2018-08-21,good,-,FC6310 (8.8 mm),4864 x 3648,244,625,3.2,problematic overlap,normal,blue,normal,,acceptable,3 minutes 23 seconds
+independent-construction,russell-ranch,2018-08-21,,-,FC350 (3.61 mm),4000 x 3000,779,396,7.3,,,,,,good,22 minutes 17 seconds
+independent-construction,skyline,2018-08-23,normal,-,FC350 (3.61 mm),4000 x 3000,1227,534,7.4,good overlapping,normal,red,normal,,good,43 minutes 45 seconds
+patriot-environmental-services,mission-clay-mine-project,2018-08-23,,-,FC350 (3.61 mm),4000 x 3000,253,344,243.6,,,,,,bad,7 minutes 19 seconds
+independent-construction,river-islands,2018-08-23,normal,-,FC350 (3.61 mm),4000 x 3000,991,514,10.9,good overlapping,good,white,good,,good,37 minutes 12 seconds
+fivepoint,mission-village,2018-08-27,good,-,FC350 (3.61 mm),4000 x 3000,2387,572,5.2,good overlapping,good,blue,,,good,1 hours 18 minutes
+independent-construction,russell-ranch,2018-08-28,good,-,FC350 (3.61 mm),4000 x 3000,752,414,7.4,good overlapping,good,white,good,,good,24 minutes 57 seconds
+independent-construction,moraga-country-club,2018-08-28,good,-,FC350 (3.61 mm),4000 x 3000,65,446,4.0,good overlapping,good,red,-,,good,43 seconds
+independent-construction,skyline,2018-08-30,good,-,FC350 (3.61 mm),4000 x 3000,1155,569,7.2,good overlapping,normal,white,good,,good,35 minutes 41 seconds
+independent-construction,river-islands,2018-08-30,normal,-,FC350 (3.61 mm),4000 x 3000,950,522,11.6,good overlapping,normal,red,normal,,acceptable,41 minutes 27 seconds
+lennar,innovation-village,2018-08-31,good,-,FC350 (3.61 mm),4000 x 3000,382,411,7.0,good overlapping,normal,blue,good,,acceptable,11 minutes 3 seconds
+sitelens,lambda-drive-project,2018-09-02,,-,FC6310 (8.8 mm),5472 x 3648,451,517,7.9,,,,,,acceptable,8 minutes 23 seconds
+fivepoint,mission-village,2018-09-04,good,-,FC350 (3.61 mm),4000 x 3000,2406,755,756.7,good overlapping,normal,blue,,,acceptable,1 hours 38 minutes
+independent-construction,russell-ranch,2018-09-04,good,-,FC350 (3.61 mm),4000 x 3000,728,396,8.2,good overlapping,good,white,good,,good,26 minutes 7 seconds
+independent-construction,skyline,2018-09-06,good,-,FC350 (3.61 mm),4000 x 3000,1356,515,8.4,good overlapping,good,blue,good,,good,46 minutes 16 seconds
+independent-construction,river-islands,2018-09-06,normal,-,FC350 (3.61 mm),4000 x 3000,952,528,13.0,good overlapping,normal,blue,good,,acceptable,33 minutes 18 seconds
+fivepoint,mission-village,2018-09-10,good,-,FC350 (3.61 mm),4000 x 3000,2139,530,6.3,good overlapping,,,,,acceptable,1 hours 24 minutes
+independent-construction,moraga-country-club,2018-09-06,good,-,FC350 (3.61 mm),4000 x 3000,76,317,4.9,good overlapping,good,blue,-,,good,50 seconds
+lennar,gateway,2018-09-06,,-,FC350 (3.61 mm),4000 x 3000,347,375,6.6,,,,,,acceptable,12 minutes 5 seconds
+fivepoint,mission-village,2018-09-10,,-,FC350 (3.61 mm),4000 x 3000,2139,530,6.3,,,,,,acceptable,1 hours 24 minutes
+independent-construction,russell-ranch,2018-09-11,good,-,FC350 (3.61 mm),4000 x 3000,741,377,7.8,good overlapping,good,white,,,good,22 minutes 28 seconds
+independent-construction,moraga-country-club,2018-09-11,good,-,FC350 (3.61 mm),4000 x 3000,70,350,3.5,good overlapping,good,blue,-,,good,56 seconds
+engeo,treasure-island,2018-09-11,good,-,FC6310 (8.8 mm),4864 x 3648,389,733,1.7,problematic overlap,-,-,-,,bad,6 minutes 25 seconds
+independent-construction,aviano-subdivision,2018-08-15,normal,-,FC350 (3.61 mm),4000 x 3000,424,459,12.7,good overlapping,-,-,-,,good,16 minutes 31 seconds
+independent-construction,moraga-country-club,2018-09-14,good,-,FC350 (3.61 mm),4000 x 3000,70,316,3.4,good overlapping,good,white,-,,good,35 seconds
+lennar,innovation-village,2018-09-14,good,-,FC350 (3.61 mm),4000 x 3000,382,477,8.7,good overlapping,normal,blue,good,,acceptable,11 minutes 52 seconds
+landsea,sanctuary,2018-09-14,good,-,FC6310 (8.8 mm),4864 x 3648,298,672,1.7,problematic overlap,normal,blue,normal,,acceptable,6 minutes 33 seconds
+fivepoint,mission-village,2018-09-17,good,-,FC350 (3.61 mm),4000 x 3000,2262,523,5.6,good overlapping,normal,normal,,,acceptable,1 hours 12 minutes
+independent-construction,gilbert-property-phase-1,2018-09-18,good,-,FC350 (3.61 mm),4000 x 3000,353,396,9.6,good overlapping,normal,blue,good,,good,24 minutes 20 seconds
+independent-construction,russell-ranch,2018-09-18,good,-,FC350 (3.61 mm),4000 x 3000,698,451,8.1,good overlapping,normal,white,good,,good,24 minutes 9 seconds
+william-lyon-homes,sohay-tract-8447,2018-09-18,,-,FC350 (3.61 mm),4000 x 3000,133,299,3.9,,,,,,good,3 minutes 28 seconds
+fivepoint,district-5,2018-09-19,good,-,FC350 (3.61 mm),4000 x 3000,1542,569,6.5,problematic overlap,normal,,,,good,45 minutes 6 seconds
+aanrg,jeti-lee-russell,2018-09-19,,-,FC6310 (8.8 mm),4864 x 3648,159,119,1.1,,,,,,visual,2 minutes 23 seconds
+independent-construction,river-islands,2018-09-20,good,-,-,-,-,-,9.8,good overlapping,normal,orange,good,,acceptable,-
+lennar,lafayette,2018-09-20,good,-,FC350 (3.61 mm),4000 x 3000,71,238,4.7,good overlapping,good,white,good,,good,50 seconds
+aanrg,jeti-lee-russell,2018-09-20,,-,FC6310 (8.8 mm),4864 x 3648,153,113,1.0,,,,,,visual,1 minutes 54 seconds
+independent-construction,moraga-country-club,2018-09-21,good,-,FC350 (3.61 mm),4000 x 3000,71,226,3.4,good overlapping,good,white,-,,good,36 seconds
+independent-construction,russell-ranch,2018-09-25,good,-,FC350 (3.61 mm),4000 x 3000,708,472,9.2,good overlapping,good,white,good,,good,19 minutes 21 seconds
+engeo,treasure-island,2018-09-26,normal,-,FC6310 (8.8 mm),4864 x 3648,1222,517,10.8,good overlapping,normal,white,-,,acceptable,24 minutes 22 seconds
+aanrg,jeti-kathe-dobson,2018-09-28,,-,FC6310 (8.8 mm),4864 x 3648,202,120,120.3,,,,,,visual,1 minutes 46 seconds
+lennar,innovation-village,2018-09-28,good,-,FC350 (3.61 mm),4000 x 3000,382,436,9.9,good overlapping,,,,,acceptable,11 minutes 56 seconds
+fivepoint,mission-village,2018-10-01,normal,-,FC350 (3.61 mm),4000 x 3000,2359,501,6.0,good overlapping,normal,normal,,,good,1 hours 23 minutes
+independent-construction,aviano-subdivision,2018-10-01,good,-,FC350 (3.61 mm),4000 x 3000,434,385,9.9,good overlapping,normal,red-blue,good,,good,16 minutes 3 seconds
+independent-construction,wildflower,2018-10-01,good,-,FC350 (3.61 mm),4000 x 3000,105,191,3.2,good overlapping,-,-,-,,good,1 minutes 25 seconds
+independent-construction,russell-ranch,2018-10-02,,-,FC350 (3.61 mm),4000 x 3000,712,476,9.1,,,,,,good,18 minutes 3 seconds
+independent-construction,sierra-vista,2018-10-04,,-,FC350 (3.61 mm),4000 x 3000,781,501,80.8,,,,,,good,32 minutes 16 seconds
+independent-construction,moraga-country-club,2018-10-05,,-,FC350 (3.61 mm),4000 x 3000,,375,1.9,,,,,,good,44 seconds
+fivepoint,mission-village,2018-10-08,good,-,FC350 (3.61 mm),4000 x 3000,2336,652,6.1,good overlapping,normal,normal,,,acceptable,1 hours 27 minutes
+stice,d5-ph-1-grading,2018-10-08,,-,FC350 (3.61 mm),4000 x 3000,1532,527,82.6,good overlapping,normal,,,,good,51 minutes 46 seconds
+independent-construction,russell-ranch,2018-10-09,good,-,FC350 (3.61 mm),4000 x 3000,723,491,1790.8,good overlapping,good,white,,,acceptable,25 minutes 8 seconds
+independent-construction,sierra-vista,2018-10-10,,-,FC350 (3.61 mm),4000 x 3000,859,766,37.3,,,,,,good,35 minutes 29 seconds
+independent-construction,aviano-subdivision,2018-11-10,,-,-,-,-,-,-,,,,,,acceptable,-
+independent-construction,wildflower,2018-11-07,,-,FC350 (3.61 mm),4000 x 3000,-,397,3.1,,,,,,good,1 minutes 4 seconds
+lennar,innovation-village,2018-10-12,good,-,FC350 (3.61 mm),4000 x 3000,382,419,6.1,good overlapping,-,-,,,good,12 minutes 21 seconds
+independent-construction,russell-ranch,2018-10-16,good,-,FC350 (3.61 mm),4000 x 3000,709,426,9.0,good overlapping,good,white,,,acceptable,20 minutes 36 seconds
+fivepoint,mission-village,2018-10-16,good,-,FC350 (3.61 mm),4000 x 3000,2375,999,6.3,good overlapping,normal,-,,,acceptable,1 hours 28 minutes
+independent-construction,sierra-vista,2018-10-16,,-,FC350 (3.61 mm),4000 x 3000,807,485,9.1,,,,,,acceptable,34 minutes 21 seconds
+engeo,treasure-island,2018-10-16,,-,FC6310S (8.8 mm),4864 x 3648,1314,1617,2.4,,,,,,acceptable,31 minutes 44 seconds
+stice,pa-6-5b,2018-10-17,good,-,-,-,-,-,-,good overlapping,bad,red,,,bad,-
+independent-construction,wildflower,2018-10-18,,-,FC350 (3.61 mm),4000 x 3000,105,356,4.1,,,red-blue,,,acceptable,1 minutes 19 seconds
+independent-construction,aviano-subdivision,2018-10-18,,-,FC350 (3.61 mm),4000 x 3000,434,414,14.8,,,,,,acceptable,16 minutes 43 seconds
+independent-construction,river-islands,2018-10-18,,-,FC350 (3.61 mm),4000 x 3000,927,545,12.2,,,,,,acceptable,32 minutes 22 seconds
+fivepoint,mission-village,2018-10-22,good,-,FC350 (3.61 mm),4000 x 3000,2356,581,1051.9,good overlapping,normal,,,,acceptable,1 hours 20 minutes
+lennar,lafayette,2018-10-22,,-,FC350 (3.61 mm),4000 x 3000,71,219,3.7,,,,,,good,48 seconds
+independent-construction,russell-ranch,2018-10-23,good,-,FC350 (3.61 mm),4000 x 3000,709,429,8.0,good overlapping,good,white,,,good,17 minutes 18 seconds
+stice,pa-6-5b,2018-10-23,good,-,FC350 (3.61 mm),4000 x 3000,902,469,6.4,good overlapping,good,white,,,good,29 minutes 36 seconds
+independent-construction,sierra-vista,2018-10-23,,-,FC350 (3.61 mm),4000 x 3000,808,466,7.7,,,,,,acceptable,31 minutes 33 seconds
+independent-construction,moraga-country-club,2018-10-25,,-,FC350 (3.61 mm),4000 x 3000,75,422,5.8,,,,,,good,38 seconds
+independent-construction,gilbert-property-phase-1,2018-10-25,,-,FC350 (3.61 mm),4000 x 3000,413,376,12.2,,,,,,good,12 minutes 16 seconds
+stice,ocpc-crush-pile,2018-10-25,,-,FC350 (3.61 mm),4000 x 3000,149,479,5.3,,,,,,good,4 minutes 4 seconds
+lennar,innovation-village,2018-10-26,good,-,FC350 (3.61 mm),4000 x 3000,383,440,8.1,good overlapping,good,white,,,acceptable,13 minutes 9 seconds
+independent-construction,wildflower,2018-10-29,good,-,FC350 (3.61 mm),4000 x 3000,106,207,3.7,good overlapping,good,normal,,,good,1 minutes 20 seconds
+independent-construction,aviano-subdivision,2018-10-29,normal,-,FC350 (3.61 mm),4000 x 3000,435,457,10.2,good overlapping,normal,red-blue,,,acceptable,12 minutes 46 seconds
+fivepoint,mission-village,2018-10-29,good,-,FC350 (3.61 mm),4000 x 3000,2352,888,6.3,good overlapping,good,,,,acceptable,1 hours 13 minutes
+independent-construction,sierra-vista,2018-10-30,,-,FC350 (3.61 mm),4000 x 3000,918,532,13.5,,,,,,good,36 minutes 43 seconds
+independent-construction,russell-ranch,2018-10-30,good,-,FC350 (3.61 mm),4000 x 3000,720,433,8.1,good overlapping,good,white,,,acceptable,25 minutes 2 seconds
+engeo,treasure-island,2018-10-28,good,-,FC6310S (8.8 mm),4864 x 3648,871,2030,2.0,good overlapping,good,red,,,good,15 minutes 59 seconds
+wood-rodgers,harris-ranch,2017-06-21,,-,S.O.D.A. (10.2 mm),5472 x 3648,2750,144,2.2,,,,,,good,44 minutes 10 seconds
+aanrg,castle-hills-golf-course,2018-11-02,-,-,FC6310 (8.8 mm),4864 x 3648,443,588,587.6,-,-,-,,,bad,8 minutes 14 seconds
+independent-construction,russell-ranch,2018-11-06,good,-,FC350 (3.61 mm),4000 x 3000,709,450,7.1,good overlapping,good,white,,,acceptable,21 minutes 27 seconds
+independent-construction,sierra-vista,2018-11-06,,-,FC350 (3.61 mm),4000 x 3000,845,491,7.7,good overlapping,normal,red,,,good,36 minutes 28 seconds
+fivepoint,mission-village,2018-05-10,,-,FC350 (3.61 mm),4000 x 3000,2317,522,4.8,good overlapping,normal,,,,acceptable,1 hours 26 minutes
+independent-construction,wildflower,2018-11-07,,-,FC350 (3.61 mm),4000 x 3000,106,397,3.1,good overlapping,normal,red,,,good,1 minutes 4 seconds
+aanrg,castle-hills-golf-course,2018-11-08,,-,FC6310 (8.8 mm),4864 x 3648,452,671,1.5,,,,,,good,7 minutes 35 seconds
+independent-construction,russell-ranch-phase-ii,2018-11-09,,-,FC350 (3.61 mm),4000 x 3000,527,517,6.0,good overlapping,-,-,,,good,16 minutes 47 seconds
+lennar,innovation-village,2018-11-09,,-,FC350 (3.61 mm),4000 x 3000,382,430,6.1,good overlapping,good,blue,,,good,12 minutes 13 seconds
+independent-construction,russell-ranch,2018-11-13,,-,FC350 (3.61 mm),4000 x 3000,716,439,7.5,good overlapping,normal,red,,,acceptable,27 minutes 2 seconds
+independent-construction,sierra-vista,2018-11-13,,-,FC350 (3.61 mm),4000 x 3000,724,486,6.6,,,,,,acceptable,28 minutes 5 seconds
+fivepoint,mission-village,2018-11-15,,-,FC350 (3.61 mm),4000 x 3000,,849,7.1,,,,,,acceptable,1 hours 37 minutes
+sukut-construction,1255-trampas,2018-11-16,,-,FC6510 (8.8 mm),5472 x 3648,1646,86,3.9,,,,,,good,44 minutes 51 seconds
+fivepoint,district-5,2018-11-18,,-,FC6310S (8.8 mm),4000 x 3000,1926,149,4.5,problematic overlap,normal,red-blue,,,acceptable,38 minutes 30 seconds
+sukut-construction,1255-trampas,2018-11-18,,-,FC6510 (8.8 mm),5472 x 3648,1646,32,33.3,,,,,,acceptable,42 minutes 7 seconds
+independent-construction,moraga-country-club,2018-11-20,,-,FC350 (3.61 mm),4000 x 3000,76,262,3.2,good overlapping,good,white,,,good,29 seconds
+independent-construction,wildflower,2018-11-20,,-,FC350 (3.61 mm),4000 x 3000,107,480,3.9,good overlapping,normal,,,,acceptable,1 minutes 18 seconds
+fivepoint,district-5,2018-11-25,,-,FC6310S (8.8 mm),4864 x 3648,1381,833,3.3,problematic overlap,bad,red,,,bad,31 minutes 11 seconds
+independent-construction,russell-ranch,2018-11-25,,-,FC350 (3.61 mm),4000 x 3000,703,438,5.3,good overlapping,normal,orange,,,acceptable,19 minutes 18 seconds
+engeo,treasure-island,2018-11-25,,-,FC6310S (8.8 mm),4864 x 3648,1101,1894,2.9,good overlapping,normal,orange,,,acceptable,13 minutes 29 seconds
+independent-construction,sierra-vista,2018-11-25,,-,FC350 (3.61 mm),4000 x 3000,810,518,8.8,good overlapping,normal,red,,,good,33 minutes 27 seconds
+lennar,innovation-village,2018-11-25,,-,FC6310 (8.8 mm),4864 x 3648,319,493,2.9,,,,,,acceptable,5 minutes 4 seconds
+fivepoint,mission-village,2018-11-27,,-,FC6310 (8.8 mm),4864 x 3648,2035,934,520.7,,,,,,acceptable,38 minutes 58 seconds
+lennar,lafayette,2018-12-02,,-,FC6310 (8.8 mm),4864 x 3648,49,432,1.5,good overlapping,good,white,,,good,17 seconds
+engeo,treasure-island,2018-12-02,,-,FC6310S (8.8 mm),4864 x 3648,1101,1891,2.3,,,,,,good,15 minutes 17 seconds
+fivepoint,district-5,2018-12-02,,-,FC6310 (8.8 mm),4864 x 3648,1654,1304,3.1,problematic overlap,bad,red-blue,,,bad,40 minutes 52 seconds
+fivepoint,district-5,2018-12-02,,-,FC6310 (8.8 mm),4864 x 3648,1654,1304,3.1,,,,,,acceptable,40 minutes 52 seconds
+fivepoint,mission-village,2018-12-03,,-,FC6310 (8.8 mm),4864 x 3648,1763,1002,2.9,,,,,,acceptable,33 minutes 19 seconds
+independent-construction,gilbert-property-phase-1,2018-12-06,,-,FC350 (3.61 mm),4000 x 3000,413,407,9.1,good overlapping,normal,red-blue,,,acceptable,17 minutes 6 seconds
+independent-construction,russell-ranch,2018-12-09,,-,FC350 (3.61 mm),4000 x 3000,703,405,8.1,good overlapping,good,white,,,good,17 minutes 8 seconds
+fivepoint,district-5,2018-12-09,,-,-,-,-,-,-,good overlapping,bad,blue,,,deleted,-
+lennar,innovation-village,2018-12-09,,-,FC6310 (8.8 mm),4864 x 3648,306,529,1.9,,,,,,acceptable,3 minutes 53 seconds
+fivepoint,mission-village,2018-12-10,,-,FC6310 (8.8 mm),4864 x 3648,2197,882,5.3,good overlapping,,,,,acceptable,41 minutes 28 seconds
+fivepoint,district-5,2018-12-10,,-,FC6310 (8.8 mm),4864 x 3648,1818,2513,3.2,,,,,,good,49 minutes 19 seconds
+independent-construction,russell-ranch,2018-12-16,,-,FC6310 (8.8 mm),4864 x 3648,683,597,4.8,problematic overlap,bad,red-blue,,,bad,10 minutes 11 seconds
+fivepoint,district-5,2018-12-16,,-,FC6310 (8.8 mm),4864 x 3648,1756,2300,21.7,,,,,,acceptable,42 minutes 8 seconds
+fivepoint,mission-village,2018-12-17,,-,FC6310 (8.8 mm),4864 x 3648,2148,922,2.8,good overlapping,bad,red-blue,,,acceptable,43 minutes 1 seconds
+independent-construction,wildflower,2018-12-18,,-,FC350 (3.61 mm),4000 x 3000,105,314,4.3,good overlapping,normal,white,,,good,58 seconds
+fivepoint,district-5,2018-12-22,,-,FC6310 (8.8 mm),4864 x 3648,1783,1472,3.5,,,,,,acceptable,54 minutes 13 seconds
+lennar,innovation-village,2018-12-22,,-,-,-,-,-,-,problematic overlap,normal,red,,,acceptable,-
+independent-construction,russell-ranch,2018-12-25,,-,-,-,-,-,-,problematic overlap,,,,,bad,-
+independent-construction,russell-ranch,2018-12-30,,-,FC6310 (8.8 mm),5472 x 3648,714,525,4.1,good overlapping,,,,,acceptable,11 minutes 5 seconds
+fivepoint,district-5,2018-12-30,,-,FC6310 (8.8 mm),4864 x 3648,1782,582,4.4,good overlapping,normal,red-blue,,,bad,41 minutes 58 seconds
+fivepoint,district-5,2019-01-04,,-,FC6310 (8.8 mm),4864 x 3648,1741,2561,331.6,good overlapping,bad,red-blue,,,bad,47 minutes 12 seconds
+fivepoint,mission-village,2019-01-08,,-,FC6310 (8.8 mm),5472 x 3648,2256,976,10.9,good overlapping,bad,red,,,acceptable,50 minutes 3 seconds
+fivepoint,district-5,2019-01-09,,-,FC6310 (8.8 mm),4864 x 3648,1169,2415,3.0,problematic overlap,демдиф с 08.10,orange,,,-,20 minutes 41 seconds
+fivepoint,district-5,2019-01-10,,-,FC6310S (8.8 mm),4864 x 3648,1194,1813,2.6,problematic overlap,демдиф с 08.10,orange-red,,,-,21 minutes 46 seconds
+fivepoint,district-5,2019-01-11,,-,FC6310 (8.8 mm),5472 x 3648,930,797,7.4,problematic overlap,демдиф с 08.10,red,,,-,14 minutes 53 seconds
+independent-construction,aviano-subdivision,2019-01-11,,-,-,-,-,-,-,good overlapping,bad,red,,,bad,-
+engeo,treasure-island,2019-01-12,,10.00,FC6310 (8.8 mm),4864 x 3648,1090,1228,0.8,problematic overlap,bad,red-blue,,,bad,7 minutes 36 seconds
+lennar,innovation-village,2019-01-18,,10.00,FC350 (3.61 mm),4000 x 3000,270,390,50.3,good overlapping,normal,red-blue,,,acceptable,8 minutes 26 seconds
+lennar,gateway,2019-01-18,,10.00,FC350 (3.61 mm),4000 x 3000,206,510,11.1,good overlapping,normal,red,,,good,6 minutes 23 seconds
+lennar,gateway,2019-01-19,,-,-,-,-,-,-,,,,,,deleted,-
+independent-construction,aviano-subdivision,2019-01-18,,10.00,FC350 (3.61 mm),4000 x 3000,435,428,8.7,good overlapping,normal,white,,,good,13 minutes 21 seconds
+fivepoint,mission-village,2019-01-21,,-,-,-,-,-,-,,,,,,test,-
+independent-construction,gilbert-property-phase-1,2019-01-21,,10.00,FC350 (3.61 mm),4000 x 3000,412,403,6.2,,,,,,acceptable,17 minutes 38 seconds
+engeo,treasure-island,2019-01-22,,10.00,FC6310 (8.8 mm),4864 x 3648,1115,2049,2.4,,,,,,acceptable,14 minutes 46 seconds
+engeo,treasure-island,2019-01-27,good,10.00,FC6310 (8.8 mm),4864 x 3648,1110,2029,2.4,good overlapping,normal,red,,,acceptable,13 minutes 45 seconds
+fivepoint,district-5,2019-01-27,,-,-,-,-,-,-,,,,,,acceptable,-
+fivepoint,mission-village,2019-01-28,good,10.00,E90 (8.3 mm),5472 x 3648,1978,348,9.8,good overlapping,bad,red,,,acceptable,59 minutes 15 seconds
+lennar,faria-preserve,2019-01-29,,10.00,FC350 (3.61 mm),4000 x 3000,917,408,9.1,good overlapping,normal,red-blue,,,acceptable,27 minutes 56 seconds
+lennar,gateway,2019-01-31,good,0.05,FC6310R (8.8 mm),5472 x 3648,215,10,5.3,good overlapping,normal,red-blue,,,acceptable,6 minutes 22 seconds
+lennar,glen-loma-ranch,2019-01-31,,10.00,FC350 (3.61 mm),4000 x 3000,333,434,7.4,,,,,,visual,9 minutes 34 seconds
+independent-construction,gilbert-property-phase-1,2019-02-01,,10.00,FC350 (3.61 mm),4000 x 3000,533,380,6.2,good overlapping,normal,red,,,visual,20 minutes 42 seconds
+fivepoint,mission-village,2019-02-06,good,10.00,E90 (8.3 mm),5472 x 3648,2048,405,4.2,good overlapping,good,white,,,acceptable,37 minutes 44 seconds
+lennar,blvd,2019-02-06,,0.05,FC6310R (8.8 mm),5472 x 3648,338,10,4.2,,,,,,visual,7 minutes 23 seconds
+lennar,blvd,2019-02-07,,-,-,-,-,-,-,,,,,,visual,-
+lennar,tracy-hills,2019-02-05,,0.05,FC6310R (8.8 mm),5472 x 3648,349,13,118.4,,,,,,visual,6 minutes 7 seconds
+lennar,tracy-hills,2019-02-06,,-,-,-,-,-,-,,,,,,visual,-
+lennar,tracy-hills,2019-02-07,,-,-,-,-,-,-,,,,,,visual,-
+fivepoint,mission-village,2019-02-11,good,10.00,E90 (8.3 mm),5472 x 3648,2146,366,9.5,good overlapping,good,white,,,good,57 minutes 50 seconds
+lennar,faria-preserve,2019-02-12,good,10.00,FC350 (3.61 mm),4000 x 3000,819,430,9.8,,,,,,visual,25 minutes 28 seconds
+lennar,gateway,2019-02-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,270,9,6.3,good overlapping,normal,red,,,acceptable,9 minutes 21 seconds
+lennar,innovation-village,2019-02-17,good,10.00,FC6310R (8.8 mm),5472 x 3648,364,89,3.7,good overlapping,good,white,,,acceptable,12 minutes 21 seconds
+fivepoint,mission-village,2019-02-19,good,10.00,E90 (8.3 mm),5472 x 3648,2196,534,7.8,,,,,,good,48 minutes 24 seconds
+lennar,faria-preserve,2019-02-19,good,10.00,FC350 (3.61 mm),4000 x 3000,802,389,8.8,,,,,,visual,23 minutes 19 seconds
+engeo,treasure-island,2019-02-18,good,10.00,FC6310 (8.8 mm),4864 x 3648,1076,245,9.1,problematic overlap,normal,red-blue,,,good,28 minutes 36 seconds
+independent-construction,gilbert-property-phase-1,2019-02-22,good,10.00,FC350 (3.61 mm),4000 x 3000,527,373,6.3,good overlapping,normal,red,,,acceptable,19 minutes 10 seconds
+lennar,lagoon-valley,2019-02-24,,-,-,-,-,-,-,,,,,,deleted,-
+fivepoint,mission-village,2019-02-25,good,10.00,E90 (8.3 mm),5472 x 3648,2109,467,7.1,good overlapping,good,white,,,acceptable,43 minutes 13 seconds
+lennar,faria-preserve,2019-02-28,,-,-,-,-,-,-,,,,,,visual,-
+lennar,lagoon-valley,2019-03-01,,0.05,FC6310R (8.8 mm),5472 x 3648,2184,7,7.4,,,,,,acceptable,56 minutes 39 seconds
+lennar,polo-ranch,2019-03-03,normal,0.05,FC6310R (8.8 mm),5472 x 3648,136,4,3.2,,,,,,visual,1 minutes 37 seconds
+lennar,glen-loma-ranch,2019-03-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,325,8,4.3,,,,,,visual,4 minutes 52 seconds
+lennar,innovation-village,2019-03-03,normal,0.05,FC6310R (8.8 mm),5472 x 3648,377,6,3.5,good overlapping,normal,white,good,,acceptable,7 minutes 37 seconds
+lennar,gateway,2019-03-03,normal,0.05,FC6310R (8.8 mm),5472 x 3648,263,7,1.4,good overlapping,bad,blue,,,acceptable,7 minutes 43 seconds
+lennar,lafayette,2019-03-04,,0.05,FC6310R (8.8 mm),5472 x 3648,67,4,4.8,,,,,,good,40 seconds
+engeo,treasure-island,2019-03-04,good,10.00,FC6310 (8.8 mm),4864 x 3648,1120,2056,3.0,good overlapping,normal,red,,,good,13 minutes 51 seconds
+fivepoint,mission-village,2019-03-04,good,10.00,E90 (8.3 mm),5472 x 3648,2135,397,7.3,good overlapping,good,blue,,,acceptable,55 minutes 11 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-03-05,good,10.00,FC6310 (8.8 mm),4864 x 3648,548,359,2.1,good overlapping,,,,,good,9 minutes 30 seconds
+lennar,faria-preserve,2019-03-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,631,5,72.0,good overlapping,bad,red,normal,,visual,10 minutes 21 seconds
+independent-construction,gilbert-property-phase-1,2019-03-07,good,10.00,FC350 (3.61 mm),4000 x 3000,527,372,6.0,good overlapping,,,,,acceptable,17 minutes 7 seconds
+lennar,tracy-hills,2019-03-07,,0.05,FC6310R (8.8 mm),5472 x 3648,270,11,4.0,,,,,,visual,4 minutes 2 seconds
+lennar,blvd,2019-03-07,,0.05,FC6310R (8.8 mm),5472 x 3648,281,9,1.4,,,,,,visual,9 minutes 42 seconds
+fivepoint,mission-village,2019-03-11,good,10.00,E90 (8.3 mm),5472 x 3648,2102,462,8.1,good overlapping,normal,red,,,acceptable,53 minutes 53 seconds
+lennar,faria-preserve,2019-03-13,,0.05,FC6310R (8.8 mm),5472 x 3648,826,7,7.4,,,,,,visual,16 minutes 38 seconds
+independent-construction,gilbert-property-phase-1,2019-03-14,good,10.00,FC350 (3.61 mm),4000 x 3000,530,363,7.8,good overlapping,good,white,,,good,20 minutes 28 seconds
+lennar,blvd,2019-03-14,,0.05,FC6310R (8.8 mm),5472 x 3648,488,10,2.5,,,,,,visual,9 minutes 41 seconds
+lennar,innovation-village,2019-03-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,733,9,2.8,good overlapping,good,white,,,acceptable,15 minutes 25 seconds
+engeo,treasure-island,2019-03-17,normal,10.00,FC6310S (8.8 mm),4864 x 3648,1565,1583,36.9,problematic overlap,bad,red-blue,,,acceptable,28 minutes 47 seconds
+lennar,gateway,2019-03-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,256,13,1.8,good overlapping,good,white,,,acceptable,4 minutes 9 seconds
+fivepoint,mission-village,2019-03-18,good,10.00,E90 (8.29 mm),5472 x 3648,2157,416,5.1,good overlapping,good,white,,,good,59 minutes 34 seconds
+independent-construction,aviano-subdivision,2019-03-18,good,10.00,FC350 (3.61 mm),4000 x 3000,520,402,8.8,good overlapping,normal,red-blue,,,acceptable,18 minutes 11 seconds
+lennar,faria-preserve,2019-03-20,,0.05,FC6310R (8.8 mm),5472 x 3648,764,4,4.4,,,,,,visual,15 minutes 58 seconds
+independent-construction,gilbert-property-phase-1,2019-03-21,good,10.00,FC350 (3.61 mm),4000 x 3000,528,380,7.2,good overlapping,normal,red,normal,,good,19 minutes 26 seconds
+fivepoint,mission-village,2019-03-25,good,10.00,E90 (8.29 mm),5472 x 3648,2109,393,4.5,good overlapping,good,red,,,good,37 minutes 58 seconds
+lennar,faria-preserve,2019-03-26,normal,0.05,FC6310R (8.8 mm),5472 x 3648,669,4,4.0,,,,,,visual,10 minutes 51 seconds
+enviromine,vigilante,2019-01-28,,10.00,S.O.D.A. (10.6 mm),5472 x 3648,1016,87,4.6,,,,,,acceptable,13 minutes 40 seconds
+lennar,glen-loma-ranch,2019-03-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,311,8,3.8,,,,,,visual,7 minutes 14 seconds
+lennar,polo-ranch,2019-03-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,139,5,3.8,,,,,,visual,2 minutes 1 seconds
+independent-construction,allendale,2019-03-29,good,10.00,FC350 (3.61 mm),4000 x 3000,358,422,37.2,good overlapping,normal,red,,,good,10 minutes 34 seconds
+lennar,gateway,2019-03-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,260,11,1.7,good overlapping,good,white,,,good,5 minutes 38 seconds
+lennar,innovation-village,2019-03-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,650,6,6.0,good overlapping,normal,red-blue,,,acceptable,13 minutes 12 seconds
+fivepoint,mission-village,2019-04-01,normal,10.00,E90 (8.29 mm),5472 x 3648,2176,404,4.6,good overlapping,normal,red,,,good,1 hours 9 minutes
+lennar,faria-preserve,2019-04-03,normal,0.05,FC6310R (8.8 mm),5472 x 3648,602,4,4.1,,,,,,visual,10 minutes 21 seconds
+sukut-construction,1290-el-sobrante,2019-04-05,,-,-,-,-,-,1.7,,,,,,good,
+lennar,tracy-hills,2019-04-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,262,12,12.2,,,,,,visual,-
+lennar,blvd,2019-04-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,419,8,1.4,,,,,,visual,4 minutes 13 seconds
+engeo,treasure-island,2019-04-07,good,-,-,-,-,-,-,good overlapping,normal,,,,deleted,8 minutes 43 seconds
+fivepoint,mission-village,2019-04-08,good,10.00,E90 (8.29 mm),5472 x 3648,2294,477,5.3,,,,,,good,-
+independent-construction,wildflower,2019-04-10,good,10.00,FC350 (3.61 mm),4000 x 3000,128,329,4.2,good overlapping,good,red-blue,,,good,1 hours 7 minutes
+lennar,faria-preserve,2019-04-10,,0.05,FC6310R (8.8 mm),5472 x 3648,703,5,4.5,,,,,,visual,
+engeo,treasure-island,2019-04-10,good,10.00,FC6310 (8.8 mm),4864 x 3648,962,2056,7.2,problematic overlap,normal,red-blue,,,acceptable,3 minutes 14 seconds
+sukut-construction,1290-el-sobrante,2019-04-12,,0.05,FC6510 (8.8 mm),5472 x 3648,467,134,2.8,,,,,,acceptable,
+lennar,gateway,2019-04-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,261,11,2.4,good overlapping,good,white,,,acceptable,13 minutes 32 seconds
+stice,mvlc-b1,2019-04-13,,10.00,FC6310S (8.8 mm),4864 x 3648,980,286,19.8,,,,,,acceptable,
+lennar,innovation-village,2019-04-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,705,7,7.5,good overlapping,normal,white,,,good,13 minutes 36 seconds
+fivepoint,mission-village,2019-04-15,good,10.00,E90 (8.29 mm),5472 x 3648,2134,454,5.6,good overlapping,good,,,,good,14 minutes 26 seconds
+lennar,faria-preserve,2019-04-17,normal,0.05,FC6310R (8.8 mm),5472 x 3648,613,6,6.0,,,,,,visual,7 minutes 13 seconds
+independent-construction,gilbert-property-phase-1,2019-04-17,good,10.00,FC350 (3.61 mm),4000 x 3000,545,451,5.5,good overlapping,normal,blue,,,acceptable,19 minutes 6 seconds
+engeo,treasure-island,2019-04-21,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1022,2031,5.6,problematic overlap,normal,red,,,acceptable,13 minutes 49 seconds
+river-islands-development,paradise,2019-04-23,,-,-,-,-,-,-,,,,,,acceptable,
+lennar,faria-preserve,2019-04-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,730,4,4.3,good overlapping,normal,red,,,visual,49 minutes 39 seconds
+fivepoint,mission-village,2019-04-23,good,-,-,-,-,-,-,,,,,,deleted,9 minutes 46 seconds
+fivepoint,mission-village,2019-04-25,normal,-,-,-,-,-,-,problematic overlap,,red,,,deleted,21 minutes 38 seconds
+lennar,glen-loma-ranch,2019-04-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,293,7,3.8,good overlapping,,,,,visual,15 minutes 27 seconds
+engeo,treasure-island,2019-04-28,good,10.00,FC6310 (8.8 mm),4864 x 3648,1194,2006,5.4,good overlapping,normal,red,,,acceptable,-
+lennar,gateway,2019-04-27,good,10.00,FC350 (3.61 mm),4000 x 3000,314,416,7.1,good overlapping,good,red,,,acceptable,15 minutes 2 seconds
+lennar,innovation-village,2019-04-27,,10.00,FC350 (3.61 mm),4000 x 3000,367,366,8.9,good overlapping,normal,red/blue,,,acceptable,-
+lennar,glen-loma-ranch,2019-04-27,,-,-,-,-,-,3.8,,,,,,visual,
+stice,mvlc-b1,2019-04-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,707,7,3.2,good overlapping,normal,red,good,,acceptable,-
+fivepoint,mission-village,2019-04-29,good,-,-,-,-,-,-,,,,,,deleted,5 minutes 47 seconds
+lennar,polo-ranch,2019-04-28,good,0.05,FC350 (3.61 mm),4000 x 3000,232,261,6.6,good overlapping,bad,red-blue,,,visual,14 minutes 38 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-04-25,good,10.00,FC220 (4.73 mm),4000 x 3000,698,134,29.8,good overlapping,normal,red/blue,,,acceptable,5 minutes 41 seconds
+fivepoint,mission-village,2019-04-30,good,10.00,FC6310R (8.8 mm),5472 x 3648,2427,975,1.2,good overlapping,good,white,,,good,8 minutes 57 seconds
+sukut-construction,1290-el-sobrante,2019-04-30,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,352,5,1.5,good overlapping,,,,,good,-
+lennar,faria-preserve,2019-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,612,5,5.3,,,,,,visual,8 minutes 52 seconds
+independent-construction,aviano-subdivision,2019-05-02,good,10.00,FC350 (3.61 mm),4000 x 3000,534,448,6.4,good overlapping,normal,red,,,good,18 minutes 24 seconds
+engeo,treasure-island,2019-05-05,good,10.00,FC6310 (8.8 mm),4864 x 3648,1174,1975,6.0,good overlapping,normal,white,,,acceptable,-
+fivepoint,mission-village,2019-05-06,good,10.00,FC6310R (8.8 mm),5472 x 3648,2371,197,1.7,good overlapping,normal,white,,,acceptable,20 minutes 34 seconds
+lennar,tracy-hills,2019-05-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,340,10,10.2,good overlapping,normal,red/blue,,,visual,45 minutes 47 seconds
+lennar,blvd,2019-05-07,good,-,-,-,-,-,-,good overlapping,bad,red/blue,,,visual,3 minutes 50 seconds
+lennar,blvd,2019-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,458,9,4.2,good overlapping,bad,red/blue,,,visual,11 minutes 22 seconds
+legacy-partners,28168-mission-blvd-hayward,2019-05-08,,10.00,FC6310R (8.8 mm),5472 x 3648,204,3,27.6,,,,,,acceptable,
+independent-construction,gilbert-property-phase-1,2019-05-09,,10.00,FC350 (3.61 mm),4000 x 3000,596,446,4.6,good overlapping,normal,red,,,visual,18 minutes 27 seconds
+lennar,faria-preserve,2019-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,709,5,4.6,,,,,,visual,14 minutes 31 seconds
+lennar,gateway,2019-05-12,good,10.00,FC350 (3.61 mm),4000 x 3000,308,407,5.7,good overlapping,good,white,,,good,52 minutes 33 seconds
+engeo,treasure-island,2019-05-11,good,10.00,FC6310 (8.8 mm),4864 x 3648,1171,1969,5.1,good overlapping,good,blue,,,good,5 minutes 29 seconds
+lennar,innovation-village,2019-05-12,good,10.00,FC350 (3.61 mm),4000 x 3000,351,398,7.1,good overlapping,normal,red/blue,,,acceptable,-
+fivepoint,mission-village,2019-05-13,good,10.00,E90 (8.29 mm),5472 x 3648,2135,550,4.6,good overlapping,good,red,,,acceptable,11 minutes 42 seconds
+sukut-construction,1290-el-sobrante,2019-05-13,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,419,3,3.0,good overlapping,good,white,,,good,2 minutes 47 seconds
+independent-construction,sierra-vista,2019-05-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,823,10,9.7,good overlapping,good,red/blue,,,good,23 minutes 47 seconds
+independent-construction,gilbert-property-phase-1,2019-05-17,normal,10.00,FC350 (3.61 mm),4000 x 3000,584,468,9.0,good overlapping,good,white,,,visual,14 minutes 22 seconds
+lmc,sherwin-williams,2019-05-17,,0.05,FC6310R (8.8 mm),5472 x 3648,95,4,2.1,,,,,,good,
+sukut-construction,1290-el-sobrante,2019-05-17,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,365,4,3.6,good overlapping,good,white,,,good,9 minutes 7 seconds
+lennar,faria-preserve,2019-05-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,993,5,177.7,good overlapping,normal,red,,,visual,13 minutes 57 seconds
+independent-construction,faria-ranch,2019-05-17,good,-,-,-,-,-,-,good overlapping,good,white,,,good,8 minutes 59 seconds
+fivepoint,mission-village,2019-05-20,good,10.00,E90 (8.29 mm),5472 x 3648,2125,460,4.7,good overlapping,good,white,,,good,54 minutes 0 seconds
+independent-construction,aviano-subdivision,2019-05-20,good,10.00,FC350 (3.61 mm),4000 x 3000,526,429,9.3,good overlapping,good,white,,,good,4 minutes 31 seconds
+legacy-partners,28168-mission-blvd-hayward,2019-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,203,3,0.5,good overlapping,good,white,,,good,29 minutes 30 seconds
+lennar,gateway,2019-05-26,good,10.00,FC6310 (8.8 mm),4864 x 3648,290,539,6.3,good overlapping,normal,red,,,good,22 minutes 44 seconds
+lennar,innovation-village,2019-05-26,good,10.00,FC6310 (8.8 mm),4864 x 3648,392,605,6.3,good overlapping,good,white,,,good,48 seconds
+fivepoint,mission-village,2019-05-28,good,10.00,E90 (8.29 mm),5472 x 3648,2135,481,4.7,good overlapping,good,white,,,good,3 minutes 44 seconds
+engeo,treasure-island,2019-05-28,normal,-,-,-,-,-,2.9,problematic overlap,normal,red,,,acceptable,23 minutes 42 seconds
+sukut-construction,1307-altamont-landfill,2019-05-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,1635,28,4.8,problematic overlap,,,,,good,-
+lennar,glen-loma-ranch,2019-05-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,334,8,4.3,good overlapping,,,,,visual,48 minutes 35 seconds
+lennar,polo-ranch,2019-05-29,,-,-,-,-,-,-,,,,FALSE,FALSE,visual,-
+independent-construction,allendale,2019-05-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,331,7,2.2,good overlapping,good,white,,,good,17 minutes 0 seconds
+lennar,polo-ranch,2019-05-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,144,5,4.0,good overlapping,,,,,visual,3 minutes 29 seconds
+stice,freeway-business-center,2019-05-31,good,10.00,FC6310S (8.8 mm),4864 x 3648,509,231,2.3,good overlapping,,,,,good,5 minutes 11 seconds
+stice,mvlc-b1,2019-05-31,good,10.00,FC6310S (8.8 mm),4864 x 3648,1015,175,4.7,good overlapping,normal,blue-orange,,,bad,53 minutes 41 seconds
+engeo,treasure-island,2019-06-02,good,10.00,FC6310 (8.8 mm),4864 x 3648,1169,2026,4.8,good overlapping,good,red,,,good,4 minutes 47 seconds
+fivepoint,mission-village,2019-06-03,good,10.00,E90 (8.29 mm),5472 x 3648,2146,472,4.4,good overlapping,good,white,,,good,-
+engeo,treasure-island,2019-06-02,good,-,-,-,-,-,4.8,problematic overlap,normal,blue-orange,,,acceptable,53 minutes 56 seconds
+independent-construction,sierra-vista,2019-06-05,good,0.05,FC350 (3.61 mm),4000 x 3000,936,493,-,good overlapping,good,white,TRUE,FALSE,good,5 minutes 1 seconds
+engeo,treasure-island,2019-06-09,good,10.00,FC6310 (8.8 mm),4864 x 3648,1168,1916,5.4,good overlapping,good,white,TRUE,FALSE,acceptable,6 minutes 41 seconds
+lennar,innovation-village,2019-06-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,388,8,7.6,good overlapping,normal,red,TRUE,FALSE,good,1 minutes 35 seconds
+lennar,tracy-hills,2019-06-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,306,11,10.8,good overlapping,,red-blue,FALSE,FALSE,visual,9 minutes 21 seconds
+lennar,blvd,2019-06-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,553,9,2.2,good overlapping,,,FALSE,FALSE,visual,19 minutes 56 seconds
+lennar,gateway,2019-06-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,349,14,3.3,good overlapping,normal,blue,TRUE,FALSE,acceptable,16 minutes 38 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-06-03,good,10.00,FC6310 (8.8 mm),4864 x 3648,1317,395,2.2,good overlapping,good,white,TRUE,FALSE,good,1 hours 10 minutes
+engeo,treasure-island,2019-06-09,good,10.00,FC6310 (8.8 mm),4864 x 3648,1168,1916,5.4,good overlapping,good,blue,TRUE,FALSE,acceptable,-
+fivepoint,mission-village,2019-06-11,good,10.00,E90 (8.29 mm),5472 x 3648,2128,409,4.3,good overlapping,good,white,TRUE,FALSE,good,40 minutes 35 seconds
+independent-construction,river-islands,2019-06-13,good,10.00,FC350 (3.61 mm),4000 x 3000,952,601,4.2,good overlapping,bad,blue,FALSE,FALSE,good,14 minutes 53 seconds
+river-islands-development,paradise,2019-06-13,,-,-,-,-,-,-,,,,FALSE,FALSE,-,6 minutes 47 seconds
+fivepoint,mission-village,2019-06-17,good,10.00,E90 (8.29 mm),5472 x 3648,2125,430,5.0,good overlapping,good,white,TRUE,FALSE,good,5 minutes 18 seconds
+engeo,treasure-island,2019-06-17,good,10.00,FC6310 (8.8 mm),4864 x 3648,1172,2005,6.5,good overlapping,good,white,TRUE,FALSE,acceptable,13 minutes 3 seconds
+stice,freeway-business-center,2019-06-17,normal,10.00,FC6310S (8.8 mm),4864 x 3648,527,223,1.7,good overlapping,normal,red,TRUE,FALSE,acceptable,6 minutes 30 seconds
+sukut-construction,1307-altamont-landfill,2019-06-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,1572,23,5.4,good overlapping,normal,blue,TRUE,FALSE,good,34 minutes 38 seconds
+stice,mvlc-b1,2019-06-17,good,10.00,FC6310S (8.8 mm),4864 x 3648,1191,141,4.6,good overlapping,normal,red,TRUE,FALSE,acceptable,14 minutes 53 seconds
+independent-construction,river-islands,2019-06-20,normal,10.00,FC350 (3.61 mm),4000 x 3000,1675,591,8.2,good overlapping,normal,blue,TRUE,FALSE,acceptable,48 minutes 9 seconds
+fivepoint,mission-village,2019-06-17,,10.00,E90 (8.29 mm),5472 x 3648,2125,430,5.0,good overlapping,good,red,TRUE,FALSE,good,32 minutes 47 seconds
+independent-construction,sierra-vista,2019-06-20,good,10.00,FC6520 (15 mm),5280 x 3956,1112,1058,8.0,good overlapping,normal,blue,TRUE,FALSE,good,-
+independent-construction,federico,2019-06-21,,10.00,FC6520 (15 mm),5280 x 3956,1630,1172,30.1,,,,FALSE,FALSE,acceptable,42 minutes 59 seconds
+independent-construction,los-cerros,2019-06-21,normal,-,-,-,-,-,-,poor overlapping,-,-,FALSE,FALSE,deleted,13 minutes 45 seconds
+independent-construction,creekview,2019-06-21,normal,10.00,FC6520 (15 mm),5280 x 3956,1046,1311,49.5,good overlapping,-,-,-,FALSE,bad,7 minutes 10 seconds
+lennar,innovation-village,2019-06-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,366,9,8.7,good overlapping,good,white,TRUE,FALSE,acceptable,32 minutes 53 seconds
+lennar,gateway,2019-06-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,310,12,3.7,good overlapping,good,white,TRUE,FALSE,good,20 minutes 30 seconds
+independent-construction,federico,2019-06-21,good,10.00,FC6520 (15 mm),5280 x 3956,1630,1172,30.1,good overlapping,,,FALSE,FALSE,acceptable,56 minutes 0 seconds
+fivepoint,mission-village,2019-06-24,good,10.00,E90 (8.29 mm),5472 x 3648,2139,529,4.0,good overlapping,good,white,TRUE,FALSE,good,42 minutes 59 seconds
+independent-construction,los-cerros,2019-06-25,normal,0.05,FC6310R (8.8 mm),5472 x 3648,499,5,1.1,problematic overlap,normal,red,TRUE,FALSE,good,41 minutes 43 seconds
+engeo,treasure-island,2019-06-23,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1179,1937,6.0,good overlapping,good,blue,TRUE,FALSE,acceptable,58 minutes 38 seconds
+independent-construction,plum-canyon,2019-06-26,good,10.00,FC350 (3.61 mm),4000 x 3000,166,440,6.7,good overlapping,-,-,FALSE,FALSE,good,-
+independent-construction,federico,2019-06-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,406,11,1.1,good overlapping,good,red,TRUE,FALSE,good,29 minutes 55 seconds
+independent-construction,creekview,2019-06-30,good,10.00,FC6310R (8.8 mm),5472 x 3648,990,12,103.1,good overlapping,,,FALSE,FALSE,bad,5 minutes 57 seconds
+independent-construction,los-cerros,2019-06-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,518,6,1.3,good overlapping,good,blue,TRUE,FALSE,good,5 minutes 37 seconds
+lennar,polo-ranch,2019-06-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,151,5,1.7,good overlapping,good,red,FALSE,FALSE,visual,58 minutes 38 seconds
+lennar,glen-loma-ranch,2019-06-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,340,9,4.2,good overlapping,-,-,FALSE,FALSE,visual,45 minutes 35 seconds
+heinz-ranch-land-company,stonegate,2019-06-27,normal,-,-,-,-,-,-,good overlapping,-,-,FALSE,FALSE,good,7 minutes 40 seconds
+independent-construction,sierra-vista,2019-06-30,normal,10.00,FC6310R (8.8 mm),5472 x 3648,824,12,3.4,good overlapping,normal,red,TRUE,FALSE,good,18 minutes 20 seconds
+engeo,treasure-island,2019-07-01,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1187,1928,6.3,problematic overlap,normal,red,TRUE,FALSE,acceptable,2 minutes 53 seconds
+fivepoint,mission-village,2019-07-01,normal,10.00,E90 (8.29 mm),5472 x 3648,2143,637,4.2,good overlapping,normal,white,TRUE,FALSE,acceptable,8 minutes 22 seconds
+independent-construction,gilbert-property-phase-1,2019-07-02,good,10.00,FC350 (3.61 mm),4000 x 3000,539,479,7.2,good overlapping,good,white,FALSE,FALSE,visual,24 minutes 18 seconds
+independent-construction,wildflower,2019-07-02,good,10.00,FC350 (3.61 mm),4000 x 3000,140,214,4.1,good overlapping,good,blue,TRUE,TRUE,good,9 minutes 18 seconds
+engeo,treasure-island,2019-07-07,good,10.00,FC6310 (8.8 mm),4864 x 3648,1171,1936,5.3,good overlapping,good,red,TRUE,TRUE,acceptable,1 minutes 30 seconds
+independent-construction,sierra-vista,2019-07-05,good,10.00,FC6310R (8.8 mm),5472 x 3648,757,110,3.3,good overlapping,good,blue,TRUE,TRUE,good,5 minutes 44 seconds
+independent-construction,creekview,2019-07-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,950,13,6.9,good overlapping,normal,red,TRUE,TRUE,acceptable,-
+independent-construction,los-cerros,2019-07-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,541,5,1.9,good overlapping,good,red,TRUE,TRUE,good,22 minutes 31 seconds
+lennar,gateway,2019-07-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,307,12,3.6,good overlapping,good,white,TRUE,TRUE,good,14 minutes 1 seconds
+lennar,tracy-hills,2019-07-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,379,10,10.0,,,,FALSE,FALSE,visual,46 minutes 18 seconds
+independent-construction,federico,2019-07-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,415,14,1.0,good overlapping,normal,red,TRUE,TRUE,acceptable,18 minutes 31 seconds
+lennar,tracy-hills,2019-07-07,good,-,-,-,-,-,10.0,good overlapping,-,-,FALSE,FALSE,visual,3 minutes 54 seconds
+lennar,innovation-village,2019-07-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,383,7,7.3,good overlapping,normal,red,TRUE,TRUE,acceptable,13 minutes 34 seconds
+fivepoint,mission-village,2019-07-08,good,10.00,E90 (8.29 mm),5472 x 3648,2135,519,7.6,good overlapping,good,red,TRUE,TRUE,good,20 minutes 39 seconds
+lennar,blvd,2019-07-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,705,10,6.5,good overlapping,-,-,FALSE,TRUE,visual,39 minutes 15 seconds
+stice,freeway-business-center,2019-07-09,good,10.00,FC6310S (8.8 mm),4864 x 3648,528,228,2.3,good overlapping,good,red,TRUE,TRUE,good,8 minutes 39 seconds
+independent-construction,plum-canyon,2019-07-10,good,10.00,FC350 (3.61 mm),4000 x 3000,168,417,8.1,good overlapping,normal,blue,TRUE,TRUE,good,8 minutes 4 seconds
+independent-construction,los-cerros,2019-07-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,530,8,0.9,good overlapping,normal,blue,TRUE,TRUE,good,6 minutes 20 seconds
+independent-construction,federico,2019-07-12,normal,0.05,FC6310R (8.8 mm),5472 x 3648,391,12,1.0,good overlapping,good,blue,TRUE,TRUE,good,7 minutes 17 seconds
+independent-construction,sierra-vista,2019-07-12,good,10.00,FC6310R (8.8 mm),5472 x 3648,754,129,4.6,good overlapping,normal,red,TRUE,TRUE,good,-
+d-r-horton,walker-drive,2019-07-12,,10.00,FC6310R (8.8 mm),5472 x 3648,54,5,5.2,,,,FALSE,FALSE,acceptable,
+engeo,treasure-island,2019-07-14,good,10.00,FC6310 (8.8 mm),4864 x 3648,1169,1895,5.8,good overlapping,normal,red,TRUE,TRUE,acceptable,6 minutes 52 seconds
+fivepoint,mission-village,2019-07-15,good,10.00,E90 (8.29 mm),5472 x 3648,2131,512,4.5,good overlapping,good,white,TRUE,TRUE,good,44 minutes 54 seconds
+independent-construction,gilbert-property-phase-1,2019-07-16,good,10.00,FC350 (3.61 mm),4000 x 3000,614,450,7.5,good overlapping,-,-,FALSE,TRUE,visual,18 minutes 54 seconds
+independent-construction,wildflower,2019-07-16,good,10.00,FC350 (3.61 mm),4000 x 3000,151,414,4.3,good overlapping,good,white,TRUE,TRUE,good,8 minutes 4 seconds
+independent-construction,plum-canyon,2019-07-17,good,10.00,FC350 (3.61 mm),4000 x 3000,155,429,5.3,good overlapping,good,white,TRUE,TRUE,good,2 minutes 59 seconds
+independent-construction,creekview,2019-07-12,normal,0.05,FC6310R (8.8 mm),5472 x 3648,960,13,5.1,good overlapping,bad,red,TRUE,TRUE,good,9 minutes 2 seconds
+independent-construction,river-islands,2019-07-18,normal,10.00,FC350 (3.61 mm),4000 x 3000,1851,539,15.2,problematic overlap,bad,white,TRUE,TRUE,acceptable,11 minutes 39 seconds
+independent-construction,federico,2019-07-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,366,14,1.3,good overlapping,good,white,TRUE,TRUE,good,17 minutes 37 seconds
+independent-construction,creekview,2019-07-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,878,18,6.9,good overlapping,normal,red,TRUE,TRUE,acceptable,26 seconds
+independent-construction,los-cerros,2019-07-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,515,6,3.1,good overlapping,good,white,TRUE,TRUE,acceptable,14 minutes 2 seconds
+lennar,innovation-village,2019-07-21,normal,0.05,FC6310R (8.8 mm),5472 x 3648,312,6,2.7,good overlapping,normal,red,TRUE,TRUE,acceptable,46 minutes 29 seconds
+independent-construction,sierra-vista,2019-07-20,good,10.00,FC6310R (8.8 mm),5472 x 3648,714,271,4.0,good overlapping,good,blue,TRUE,TRUE,acceptable,19 minutes 54 seconds
+engeo,treasure-island,2019-07-21,good,10.00,FC6310 (8.8 mm),4864 x 3648,1191,1904,6.4,good overlapping,good,red,TRUE,TRUE,acceptable,4 minutes 4 seconds
+lennar,gateway,2019-07-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,279,13,4.5,good overlapping,good,white,TRUE,TRUE,good,2 minutes 55 seconds
+fivepoint,mission-village,2019-07-22,good,10.00,E90 (8.29 mm),5472 x 3648,2134,492,4.7,good overlapping,good,white,TRUE,TRUE,acceptable,33 minutes 24 seconds
+independent-construction,plum-canyon,2019-07-22,good,10.00,FC350 (3.61 mm),4000 x 3000,152,407,9.1,good overlapping,good,blue,TRUE,TRUE,good,1 hours 3 minutes
+sukut-construction,1307-altamont-landfill,2019-07-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,789,7,7.4,good overlapping,good,white,TRUE,TRUE,acceptable,4 minutes 41 seconds
+legacy-partners,28168-mission-blvd-hayward,2019-07-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,2,0.3,,good,white,FALSE,FALSE,acceptable,18 minutes 2 seconds
+brookfield-residential-la,the-groves,2019-07-22,good,10.00,FC6310S (8.8 mm),4864 x 3648,350,101,11.9,good overlapping,normal,red,TRUE,TRUE,acceptable,8 minutes 26 seconds
+brookfield-residential-la,the-groves,2019-07-14,good,10.00,FC6310S (8.8 mm),4864 x 3648,380,582,8.6,,,,FALSE,FALSE,good,5 minutes 44 seconds
+lennar,polo-ranch,2019-07-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,150,5,2.4,,,,FALSE,FALSE,visual,11 minutes 40 seconds
+lennar,glen-loma-ranch,2019-07-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,332,9,4.7,,,,FALSE,FALSE,visual,15 minutes 13 seconds
+independent-construction,faria-ranch,2019-07-25,good,10.00,FC350 (3.61 mm),4000 x 3000,720,362,8.8,,,,FALSE,FALSE,good,4 minutes 54 seconds
+d-r-horton,walker-drive,2019-07-25,good,10.00,FC6310R (8.8 mm),5472 x 3648,101,6,5.7,good overlapping,normal,blue,FALSE,TRUE,good,45 minutes 32 seconds
+independent-construction,federico,2019-07-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,388,11,0.8,good overlapping,good,white,TRUE,TRUE,good,2 minutes 1 seconds
+independent-construction,los-cerros,2019-07-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,501,6,2.6,good overlapping,good,white,TRUE,TRUE,good,15 minutes 34 seconds
+independent-construction,creekview,2019-07-26,normal,0.05,FC6310R (8.8 mm),5472 x 3648,850,11,11.8,good overlapping,normal,blue,TRUE,TRUE,good,2 minutes 52 seconds
+independent-construction,sierra-vista,2019-07-26,good,10.00,FC6310R (8.8 mm),5472 x 3648,736,40,4.1,good overlapping,good,white,TRUE,TRUE,acceptable,5 minutes 2 seconds
+engeo,treasure-island,2019-07-28,good,10.00,FC6310 (8.8 mm),4864 x 3648,1182,1938,5.3,good overlapping,good,white,TRUE,TRUE,acceptable,6 minutes 29 seconds
+fivepoint,mission-village,2019-07-29,good,10.00,E90 (8.29 mm),5472 x 3648,2136,476,4.0,good overlapping,good,white,TRUE,TRUE,good,1 minutes 44 seconds
+brookfield-residential-la,the-groves,2019-07-29,good,10.00,senseFly Aeria X (18.5 mm),6000 x 4000,1265,153,3.1,,normal,red,TRUE,TRUE,good,7 minutes 44 seconds
+independent-construction,los-cerros,2019-08-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,509,5,2.2,good overlapping,normal,white,TRUE,TRUE,good,21 minutes 31 seconds
+independent-construction,creekview,2019-08-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,815,11,5.4,good overlapping,normal,white,TRUE,TRUE,good,43 seconds
+engeo,treasure-island,2019-08-04,good,10.00,FC6310 (8.8 mm),4864 x 3648,1166,1969,6.6,good overlapping,good,white,TRUE,TRUE,good,8 minutes 15 seconds
+independent-construction,sierra-vista,2019-08-02,good,10.00,FC6310R (8.8 mm),5472 x 3648,731,11,3.5,good overlapping,normal,red,TRUE,TRUE,good,8 minutes 30 seconds
+independent-construction,federico,2019-08-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,11,0.8,good overlapping,good,white,TRUE,TRUE,good,27 minutes 32 seconds
+lennar,innovation-village,2019-08-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,362,7,5.7,good overlapping,good,white,TRUE,TRUE,good,22 minutes 41 seconds
+fivepoint,mission-village,2019-08-05,good,10.00,E90 (8.29 mm),5472 x 3648,2132,465,4.0,good overlapping,good,white,TRUE,TRUE,good,14 minutes 37 seconds
+lennar,gateway,2019-08-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,324,16,4.0,good overlapping,good,red,TRUE,TRUE,good,47 minutes 5 seconds
+independent-construction,gilbert-property-phase-1,2019-08-05,good,10.00,FC350 (3.61 mm),4000 x 3000,544,407,3.7,good overlapping,-,-,FALSE,FALSE,visual,17 minutes 59 seconds
+independent-construction,wildflower,2019-08-05,good,10.00,FC350 (3.61 mm),4000 x 3000,136,146,17.9,good overlapping,good,white,TRUE,TRUE,good,8 minutes 53 seconds
+lennar,tracy-hills,2019-08-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,337,9,9.2,good overlapping,normal,,FALSE,FALSE,visual,23 minutes 23 seconds
+lennar,blvd,2019-08-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,616,8,6.4,good overlapping,bad,red,FALSE,FALSE,visual,14 minutes 59 seconds
+independent-construction,plum-canyon,2019-08-08,good,10.00,FC350 (3.61 mm),4000 x 3000,153,419,9.6,good overlapping,good,red,TRUE,TRUE,good,21 minutes 2 seconds
+brookfield-residential-la,the-groves,2019-08-05,normal,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1265,14,29.7,good overlapping,normal,red,FALSE,FALSE,acceptable,7 minutes 24 seconds
+engeo,treasure-island,2019-08-11,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1179,1892,8.3,good overlapping,good,white,TRUE,TRUE,good,5 minutes 15 seconds
+independent-construction,federico,2019-08-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,450,10,1.4,good overlapping,good,white,TRUE,TRUE,good,43 minutes 47 seconds
+independent-construction,sierra-vista,2019-08-09,normal,0.05,FC6310R (8.8 mm),5472 x 3648,756,11,3.8,good overlapping,good,red,TRUE,TRUE,good,5 minutes 0 seconds
+independent-construction,creekview,2019-08-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,857,12,5.0,good overlapping,normal,white,TRUE,TRUE,acceptable,20 minutes 25 seconds
+independent-construction,los-cerros,2019-08-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,543,7,1.3,good overlapping,good,white,TRUE,TRUE,good,2 minutes 34 seconds
+fivepoint,mission-village,2019-08-12,good,10.00,E90 (8.29 mm),5472 x 3648,2128,431,3.8,problematic overlap,normal,white,TRUE,TRUE,acceptable,8 minutes 4 seconds
+brookfield-residential-la,the-groves,2019-08-12,,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1262,77,4.2,good overlapping,normal,red,TRUE,TRUE,good,17 minutes 14 seconds
+stice,freeway-business-center,2019-08-12,good,10.00,FC6310S (8.8 mm),4864 x 3648,532,99,5.1,good overlapping,normal,red,TRUE,TRUE,good,2 minutes 38 seconds
+wood-rodgers,daybreak-east,2019-11-20,normal,0.05,FC6510 (8.8 mm),5472 x 3648,1430,314,1.5,problematic overlap,,,FALSE,TRUE,acceptable,18 minutes 43 seconds
+independent-construction,gilbert-property-phase-1,2019-08-14,good,10.00,FC350 (3.61 mm),4000 x 3000,543,433,4.1,good overlapping,normal,blue,FALSE,TRUE,visual,15 minutes 38 seconds
+independent-construction,wildflower,2019-08-14,good,10.00,FC350 (3.61 mm),4000 x 3000,137,421,5.1,good overlapping,normal,blue,TRUE,TRUE,acceptable,9 minutes 2 seconds
+independent-construction,river-islands,2019-08-05,normal,0.05,S.O.D.A. (10.6 mm),5472 x 3648,2744,1270,2.6,good overlapping,bad,,TRUE,TRUE,acceptable,21 minutes 26 seconds
+independent-construction,river-islands,2019-08-06,normal,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,4285,885,-,good overlapping,bad,,TRUE,TRUE,acceptable,17 minutes 16 seconds
+independent-construction,river-islands,2019-08-15,normal,10.00,FC350 (3.61 mm),4000 x 3000,2802,562,14.3,good overlapping,normal,,TRUE,TRUE,acceptable,9 minutes 48 seconds
+engeo,treasure-island,2019-08-18,good,10.00,FC6310 (8.8 mm),4864 x 3648,1189,2033,7.1,,,,FALSE,FALSE,good,44 minutes 24 seconds
+independent-construction,los-cerros,2019-08-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,545,6,3.1,,,,FALSE,FALSE,good,19 minutes 12 seconds
+brookfield-residential-bay-area,blvd,2019-08-16,good,10.00,FC6310R (8.8 mm),5472 x 3648,222,63,1.5,good overlapping,,,FALSE,TRUE,good,9 minutes 22 seconds
+independent-construction,creekview,2019-08-17,normal,0.05,FC6310R (8.8 mm),5472 x 3648,932,14,7.0,good overlapping,normal,blue,TRUE,TRUE,good,19 minutes 28 seconds
+lennar,gateway,2019-08-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,299,11,3.7,,,,FALSE,FALSE,good,20 minutes 17 seconds
+independent-construction,federico,2019-08-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,454,13,2.9,good overlapping,normal,blue,TRUE,TRUE,acceptable,3 minutes 31 seconds
+lennar,innovation-village,2019-08-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,384,6,6.7,good overlapping,normal,white,TRUE,TRUE,acceptable,30 minutes 20 seconds
+fivepoint,mission-village,2019-08-19,good,10.00,E90 (8.29 mm),5472 x 3648,2134,784,-,problematic overlap,normal,white,TRUE,TRUE,acceptable,1 hours 37 minutes
+brookfield-residential-la,the-groves,2019-08-19,good,0.05,S.O.D.A. (10.6 mm),5472 x 3648,559,68,36.7,good overlapping,normal,blue,TRUE,TRUE,acceptable,1 hours 50 minutes
+independent-construction,river-islands,2019-08-22,normal,10.00,FC350 (3.61 mm),4000 x 3000,2207,578,7.3,good overlapping,normal,blue,TRUE,TRUE,acceptable,15 minutes 42 seconds
+independent-construction,los-cerros,2019-08-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,492,5,1.5,good overlapping,good,white,TRUE,TRUE,good,10 minutes 7 seconds
+engeo,treasure-island,2019-08-25,good,10.00,FC6310 (8.8 mm),4864 x 3648,1194,1842,8.1,good overlapping,normal,white,TRUE,TRUE,good,3 minutes 46 seconds
+independent-construction,creekview,2019-08-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,908,12,3.9,good overlapping,good,white,TRUE,TRUE,good,25 minutes 31 seconds
+brookfield-residential-bay-area,blvd,2019-08-23,good,10.00,FC6310R (8.8 mm),5472 x 3648,208,28,1.7,good overlapping,normal,red,TRUE,TRUE,good,6 minutes 18 seconds
+brookfield-residential-la,the-groves,2019-08-26,normal,0.05,S.O.D.A. (10.6 mm),5472 x 3648,526,91,4.4,problematic overlap,normal,blue,TRUE,TRUE,acceptable,7 minutes 27 seconds
+fivepoint,mission-village,2019-08-26,normal,10.00,E90 (8.29 mm),5472 x 3648,2132,428,4.1,good overlapping,good,white,TRUE,TRUE,acceptable,7 minutes 38 seconds
+independent-construction,meadowlands,2019-08-24,good,10.00,FC6310R (8.8 mm),5472 x 3648,178,37,2.8,good overlapping,,,FALSE,FALSE,acceptable,1 hours 2 minutes
+legacy-partners,28168-mission-blvd-hayward,2019-08-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,214,2,4.2,good overlapping,normal,blue,FALSE,TRUE,good,6 minutes 7 seconds
+independent-construction,plum-canyon,2019-08-27,good,10.00,FC350 (3.61 mm),4000 x 3000,153,505,52.2,good overlapping,normal,blue,TRUE,TRUE,acceptable,1 hours 31 minutes
+lennar,glen-loma-ranch,2019-08-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,328,9,4.4,good overlapping,bad,blue,FALSE,TRUE,visual,9 minutes 1 seconds
+lennar,polo-ranch,2019-08-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,154,8,2.3,good overlapping,bad,red-blue,FALSE,TRUE,visual,16 minutes 20 seconds
+independent-construction,gilbert-property-phase-1,2019-08-29,good,10.00,FC350 (3.61 mm),4000 x 3000,611,433,3.0,good overlapping,normal,,FALSE,TRUE,visual,21 minutes 56 seconds
+independent-construction,wildflower,2019-08-29,good,10.00,FC350 (3.61 mm),4000 x 3000,144,382,6.0,good overlapping,normal,red-blue,TRUE,TRUE,good,2 minutes 54 seconds
+engeo,treasure-island,2019-09-01,good,10.00,FC6310 (8.8 mm),4864 x 3648,1189,1967,8.1,,,,FALSE,FALSE,good,44 minutes 26 seconds
+lennar,innovation-village,2019-09-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,381,8,6.6,,,,FALSE,FALSE,acceptable,3 minutes 1 seconds
+lennar,gateway,2019-09-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,297,11,4.4,,,,FALSE,FALSE,good,3 minutes 13 seconds
+independent-construction,meadowlands,2019-08-31,good,10.00,FC6310R (8.8 mm),5472 x 3648,257,37,1.5,good overlapping,normal,white,FALSE,TRUE,acceptable,3 minutes 6 seconds
+independent-construction,creekview,2019-08-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,843,12,4.2,good overlapping,normal,blue,TRUE,TRUE,good,5 minutes 19 seconds
+independent-construction,los-cerros,2019-08-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,492,6,1.3,good overlapping,good,red,TRUE,TRUE,good,2 minutes 12 seconds
+brookfield-residential-bay-area,blvd,2019-08-30,good,10.00,FC6310R (8.8 mm),5472 x 3648,222,38,1.8,good overlapping,good,blue,TRUE,TRUE,good,18 minutes 28 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-08-30,normal,-,-,-,-,-,-,good overlapping,bad,red-blue,FALSE,FALSE,deleted,3 minutes 54 seconds
+fivepoint,mission-village,2019-09-03,good,10.00,E90 (8.29 mm),5472 x 3648,2139,556,4.2,good overlapping,good,white,TRUE,TRUE,good,16 minutes 56 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-09-03,good,-,-,-,-,-,-,problematic overlap,normal,red-blue,FALSE,TRUE,deleted,9 minutes 20 seconds
+brookfield-residential-la,the-groves,2019-09-03,normal,0.05,FC6310S (8.8 mm),5472 x 3648,1086,176,6.8,good overlapping,normal,red-blue,TRUE,TRUE,acceptable,5 minutes 44 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-09-04,good,10.00,FC220 (4.73 mm),4000 x 3000,308,164,16.1,problematic overlap,normal,blue,TRUE,TRUE,acceptable,4 minutes 58 seconds
+independent-construction,faria-ranch,2019-09-05,good,10.00,FC350 (3.61 mm),4000 x 3000,709,330,11.8,good overlapping,normal,red,TRUE,TRUE,acceptable,30 minutes 12 seconds
+independent-construction,los-cerros,2019-09-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,492,7,1.2,good overlapping,good,white,TRUE,TRUE,good,8 minutes 20 seconds
+independent-construction,creekview,2019-09-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,907,13,4.6,good overlapping,good,white,TRUE,TRUE,good,4 minutes 8 seconds
+independent-construction,river-islands,2019-09-06,good,10.00,FC350 (3.61 mm),4000 x 3000,1833,518,9.2,good overlapping,good,white,TRUE,TRUE,acceptable,-
+independent-construction,meadowlands,2019-09-06,good,10.00,FC6310R (8.8 mm),5472 x 3648,257,85,1.6,good overlapping,good,white,TRUE,TRUE,good,47 minutes 11 seconds
+engeo,treasure-island,2019-09-08,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1198,1902,7.2,good overlapping,good,white,TRUE,TRUE,good,-
+lennar,blvd,2019-09-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,580,8,5.5,good overlapping,-,-,FALSE,TRUE,visual,19 minutes 21 seconds
+brookfield-residential-bay-area,blvd,2019-09-06,good,10.00,FC6310R (8.8 mm),5472 x 3648,258,25,1.5,good overlapping,good,white,TRUE,TRUE,good,6 minutes 3 seconds
+fivepoint,mission-village,2019-09-09,good,10.00,E90 (8.29 mm),5472 x 3648,2132,437,5.3,good overlapping,good,white,TRUE,TRUE,acceptable,18 minutes 37 seconds
+lennar,tracy-hills,2019-09-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,337,10,10.1,good overlapping,good,white,FALSE,FALSE,visual,8 minutes 1 seconds
+brookfield-residential-la,the-groves,2019-09-09,good,0.05,FC6310S (8.8 mm),5472 x 3648,1140,211,210.6,good overlapping,bad,,FALSE,FALSE,bad,26 minutes 23 seconds
+independent-construction,plum-canyon,2019-09-11,good,10.00,FC350 (3.61 mm),4000 x 3000,144,478,5.9,good overlapping,good,white,TRUE,TRUE,good,1 hours 13 minutes
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-09-10,good,10.00,FC220 (4.73 mm),4000 x 3000,310,209,25.5,good overlapping,normal,red,TRUE,TRUE,acceptable,6 minutes 26 seconds
+independent-construction,river-islands,2019-09-12,good,10.00,FC350 (3.61 mm),4000 x 3000,2180,455,5.5,good overlapping,normal,red,TRUE,TRUE,acceptable,22 minutes 14 seconds
+engeo,treasure-island,2019-09-15,good,10.00,FC6310 (8.8 mm),4864 x 3648,1204,1945,6.2,good overlapping,good,white,TRUE,TRUE,good,12 minutes 25 seconds
+independent-construction,gilbert-property-phase-1,2019-09-13,good,10.00,FC350 (3.61 mm),4000 x 3000,542,391,3.3,good overlapping,good,white,TRUE,TRUE,good,5 minutes 28 seconds
+lennar,innovation-village,2019-09-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,393,8,6.3,good overlapping,good,white,TRUE,TRUE,good,40 minutes 26 seconds
+independent-construction,meadowlands,2019-09-14,good,10.00,FC6310R (8.8 mm),5472 x 3648,257,43,1.3,good overlapping,good,white,TRUE,TRUE,acceptable,6 minutes 13 seconds
+brookfield-residential-bay-area,blvd,2019-09-14,good,10.00,FC6310R (8.8 mm),5472 x 3648,242,70,1.5,good overlapping,normal,red,TRUE,TRUE,acceptable,21 minutes 21 seconds
+independent-construction,los-cerros,2019-09-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,491,8,1.6,good overlapping,good,blue,TRUE,TRUE,good,2 minutes 24 seconds
+independent-construction,creekview,2019-09-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,920,13,4.6,good overlapping,bad,red-blue,TRUE,TRUE,acceptable,6 minutes 47 seconds
+lennar,gateway,2019-09-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,297,11,3.7,good overlapping,good,white,TRUE,TRUE,good,1 hours 34 minutes
+fivepoint,mission-village,2019-09-16,good,10.00,E90 (8.29 mm),5472 x 3648,2131,468,4.7,good overlapping,good,white,TRUE,TRUE,good,21 minutes 15 seconds
+brookfield-residential-la,the-groves,2019-09-16,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1252,36,5.1,good overlapping,normal,red,TRUE,TRUE,acceptable,20 minutes 2 seconds
+plant-construction-company,pier-70,2019-09-18,normal,0.05,FC6310R (8.8 mm),5472 x 3648,346,4,4.4,good overlapping,,,FALSE,TRUE,acceptable,6 minutes 51 seconds
+independent-construction,river-islands,2019-09-19,normal,10.00,FC350 (3.61 mm),4000 x 3000,1729,480,6.0,good overlapping,normal,red,TRUE,TRUE,acceptable,6 minutes 30 seconds
+independent-construction,meadowlands,2019-09-20,good,10.00,FC6310R (8.8 mm),5472 x 3648,258,81,1.2,good overlapping,good,white,TRUE,TRUE,acceptable,3 minutes 38 seconds
+independent-construction,los-cerros,2019-09-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,492,6,1.1,good overlapping,good,white,TRUE,TRUE,good,9 minutes 43 seconds
+engeo,treasure-island,2019-09-21,good,10.00,FC6310 (8.8 mm),4864 x 3648,1246,1825,6.7,good overlapping,good,white,TRUE,TRUE,good,39 minutes 35 seconds
+brookfield-residential-bay-area,blvd,2019-09-20,good,10.00,FC6310R (8.8 mm),5472 x 3648,251,26,2.0,good overlapping,good,white,TRUE,TRUE,acceptable,6 minutes 5 seconds
+independent-construction,creekview,2019-09-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,923,13,3.7,good overlapping,good,white,TRUE,TRUE,good,42 minutes 55 seconds
+fivepoint,mission-village,2019-09-23,normal,10.00,E90 (8.29 mm),5472 x 3648,2134,1314,3.5,,bad,,FALSE,FALSE,bad,16 minutes 12 seconds
+brookfield-residential-la,the-groves,2019-09-23,normal,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,854,29,12.6,good overlapping,normal,white,TRUE,TRUE,acceptable,6 minutes 32 seconds
+independent-construction,wildflower,2019-09-24,normal,10.00,FC350 (3.61 mm),4000 x 3000,137,417,5.4,good overlapping,normal,red,TRUE,TRUE,good,53 minutes 23 seconds
+independent-construction,river-islands,2019-09-26,good,10.00,FC350 (3.61 mm),4000 x 3000,1697,467,-,problematic overlap,bad,blue,TRUE,TRUE,acceptable,7 minutes 45 seconds
+lennar,polo-ranch,2019-09-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,145,2,0.4,good overlapping,normal,,FALSE,FALSE,visual,8 minutes 3 seconds
+lennar,glen-loma-ranch,2019-09-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,339,3,2.8,good overlapping,normal,,FALSE,FALSE,visual,17 minutes 28 seconds
+fivepoint,mission-village,2019-09-27,good,-,-,-,-,-,-,,,,FALSE,FALSE,deleted,5 minutes 9 seconds
+independent-construction,los-cerros,2019-09-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,538,3,1.2,good overlapping,good,white,TRUE,TRUE,good,19 minutes 13 seconds
+independent-construction,meadowlands,2019-09-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,241,3,2.0,good overlapping,good,white,TRUE,TRUE,good,46 minutes 38 seconds
+engeo,treasure-island,2019-09-29,good,10.00,FC6310 (8.8 mm),4864 x 3648,1192,1954,5.6,,,,FALSE,FALSE,good,10 minutes 22 seconds
+lennar,innovation-village,2019-09-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,384,3,4.0,good overlapping,good,white,TRUE,TRUE,acceptable,2 minutes 44 seconds
+brookfield-residential-bay-area,blvd,2019-09-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,243,3,1.7,good overlapping,good,white,TRUE,TRUE,good,1 hours 1 minutes
+lennar,gateway,2019-09-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,347,3,2.6,good overlapping,good,white,TRUE,TRUE,good,1 minutes 4 seconds
+independent-construction,creekview,2019-09-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,940,3,1.8,good overlapping,normal,white,TRUE,TRUE,good,4 minutes 29 seconds
+independent-construction,placer-vineyards,2019-09-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,679,3,0.6,,,,FALSE,FALSE,acceptable,-
+fivepoint,mission-village,2019-09-30,good,10.00,E90 (8.29 mm),5472 x 3648,2137,357,3.9,good overlapping,normal,red,TRUE,TRUE,acceptable,6 minutes 42 seconds
+sukut-construction,1307-altamont-landfill,2019-09-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,749,2,2.5,good overlapping,good,white,TRUE,TRUE,good,4 minutes 35 seconds
+brookfield-residential-la,the-groves,2019-09-30,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,855,41,5.2,good overlapping,good,white,TRUE,TRUE,good,16 minutes 19 seconds
+legacy-partners,28168-mission-blvd-hayward,2019-10-01,,0.05,FC6310R (8.8 mm),5472 x 3648,215,3,23.0,good overlapping,good,white,TRUE,TRUE,good,4 minutes 52 seconds
+independent-construction,river-islands,2019-10-03,normal,10.00,FC350 (3.61 mm),4000 x 3000,2333,478,6.2,good overlapping,normal,red,TRUE,TRUE,acceptable,2 minutes 43 seconds
+engeo,treasure-island,2019-10-05,good,10.00,FC6310 (8.8 mm),4864 x 3648,1201,1886,5.9,good overlapping,good,white,TRUE,TRUE,good,4 minutes 51 seconds
+independent-construction,placer-vineyards,2019-10-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,671,14,222.7,good overlapping,normal,blue,TRUE,TRUE,good,18 minutes 2 seconds
+brookfield-residential-bay-area,blvd,2019-10-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,11,2.5,good overlapping,good,white,TRUE,TRUE,good,8 minutes 4 seconds
+independent-construction,los-cerros,2019-10-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,525,4,1.8,good overlapping,good,white,TRUE,TRUE,acceptable,41 minutes 33 seconds
+independent-construction,meadowlands,2019-10-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,260,13,1.9,good overlapping,good,red,TRUE,TRUE,good,8 minutes 31 seconds
+fivepoint,grapevine-mesa,2019-10-03,good,10.00,E90 (8.29 mm),5472 x 3648,595,300,8.5,good overlapping,,,FALSE,FALSE,good,10 minutes 35 seconds
+fivepoint,mission-village,2019-10-07,normal,10.00,E90 (8.29 mm),5472 x 3648,2133,1349,-,good overlapping,normal,white,TRUE,TRUE,acceptable,3 minutes 44 seconds
+brookfield-residential-la,the-groves,2019-10-07,good,-,-,-,-,-,4.4,good overlapping,normal,red,TRUE,TRUE,acceptable,1 hours 39 minutes
+lennar,tracy-hills,2019-10-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,311,9,8.5,good overlapping,good,white,FALSE,TRUE,visual,17 minutes 30 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-10-08,good,10.00,FC220 (4.73 mm),4000 x 3000,308,150,15.1,good overlapping,normal,white,TRUE,TRUE,good,11 minutes 14 seconds
+lennar,blvd,2019-10-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,563,8,5.9,good overlapping,-,-,FALSE,FALSE,visual,4 minutes 16 seconds
+heinz-ranch-land-company,stonegate,2019-10-04,normal,0.05,S.O.D.A. (10.6 mm),5472 x 3648,1753,10,5.4,good overlapping,,,FALSE,TRUE,acceptable,9 minutes 47 seconds
+plant-construction-company,pier-70,2019-10-08,normal,0.05,FC6310R (8.8 mm),5472 x 3648,286,4,3.7,good overlapping,,,FALSE,TRUE,acceptable,4 minutes 30 seconds
+independent-construction,meadowlands,2019-10-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,254,11,1.9,good overlapping,good,white,TRUE,TRUE,good,11 minutes 10 seconds
+independent-construction,placer-vineyards,2019-10-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,666,16,4.2,good overlapping,normal,red,TRUE,TRUE,acceptable,47 minutes 15 seconds
+brookfield-residential-bay-area,blvd,2019-10-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,226,11,2.2,good overlapping,good,white,TRUE,TRUE,good,-
+lennar,innovation-village,2019-10-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,376,6,6.6,good overlapping,good,white,TRUE,TRUE,good,6 minutes 58 seconds
+independent-construction,los-cerros,2019-10-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,532,5,1.8,good overlapping,good,blue,TRUE,TRUE,good,7 minutes 10 seconds
+lennar,gateway,2019-10-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,304,13,4.3,good overlapping,good,blue,TRUE,TRUE,good,13 minutes 8 seconds
+fivepoint,mission-village,2019-10-14,good,10.00,E90 (8.29 mm),5472 x 3648,2130,349,3.1,good overlapping,good,white,TRUE,TRUE,good,21 minutes 30 seconds
+engeo,treasure-island,2019-10-14,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1210,1964,3.9,good overlapping,normal,red,TRUE,TRUE,acceptable,5 minutes 0 seconds
+brookfield-residential-la,the-groves,2019-10-14,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,837,32,6.0,good overlapping,normal,blue,TRUE,TRUE,acceptable,4 minutes 25 seconds
+independent-construction,faria-ranch,2019-10-15,good,10.00,FC350 (3.61 mm),4000 x 3000,666,359,8.8,good overlapping,normal,red,TRUE,TRUE,good,10 minutes 2 seconds
+lmc,sherwin-williams,2019-10-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,118,5,2.1,good overlapping,normal,red,TRUE,FALSE,acceptable,3 minutes 13 seconds
+independent-construction,river-islands,2019-10-16,good,10.00,FC350 (3.61 mm),4000 x 3000,2381,718,6.1,problematic overlap,normal,red-blue,TRUE,TRUE,acceptable,6 minutes 43 seconds
+engeo,treasure-island,2019-10-19,good,10.00,FC6310 (8.8 mm),4864 x 3648,1187,1958,3.5,good overlapping,good,white,TRUE,TRUE,good,10 minutes 13 seconds
+brookfield-residential-bay-area,blvd,2019-10-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,208,10,2.0,good overlapping,good,white,FALSE,FALSE,good,9 minutes 31 seconds
+independent-construction,los-cerros,2019-10-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,518,5,2.2,good overlapping,good,white,FALSE,FALSE,acceptable,43 minutes 19 seconds
+independent-construction,meadowlands,2019-10-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,245,11,3.3,good overlapping,normal,red,TRUE,TRUE,acceptable,16 minutes 53 seconds
+independent-construction,placer-vineyards,2019-10-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,673,12,2.0,good overlapping,normal,blue,TRUE,TRUE,good,10 minutes 53 seconds
+fivepoint,mission-village,2019-10-21,good,10.00,E90 (8.29 mm),5472 x 3648,2132,346,3.1,good overlapping,good,white,TRUE,TRUE,good,18 minutes 27 seconds
+brookfield-residential-la,the-groves,2019-10-21,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,842,46,5.0,good overlapping,good,red,TRUE,TRUE,good,1 minutes 4 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-10-21,good,10.00,FC220 (4.73 mm),4000 x 3000,308,162,22.9,good overlapping,normal,red-blue,TRUE,TRUE,acceptable,1 hours 37 minutes
+sukut-construction,1307-altamont-landfill,2019-10-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,742,5,5.0,good overlapping,normal,blue,TRUE,TRUE,good,14 minutes 24 seconds
+lennar,faria-preserve,2019-10-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,672,5,5.0,good overlapping,-,-,FALSE,FALSE,visual,3 minutes 28 seconds
+independent-construction,los-cerros,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,531,4,2.7,good overlapping,good,red,TRUE,TRUE,good,8 minutes 14 seconds
+independent-construction,placer-vineyards,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,669,13,1.8,good overlapping,good,blue,TRUE,TRUE,good,4 minutes 24 seconds
+anthem-united,creekview,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,951,14,14.7,good overlapping,normal,red,TRUE,TRUE,acceptable,22 minutes 34 seconds
+engeo,treasure-island,2019-10-26,good,10.00,FC6310 (8.8 mm),4864 x 3648,1273,1826,4.3,good overlapping,good,white,TRUE,TRUE,good,41 minutes 53 seconds
+lennar,gateway,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,306,13,4.2,good overlapping,good,white,TRUE,TRUE,acceptable,9 minutes 20 seconds
+independent-construction,meadowlands,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,248,12,5.6,good overlapping,good,white,TRUE,TRUE,good,6 minutes 33 seconds
+lennar,innovation-village,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,373,7,6.3,good overlapping,good,white,TRUE,TRUE,acceptable,12 minutes 38 seconds
+legacy-partners,livermore,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,88,5,1.8,good overlapping,normal,blue,TRUE,FALSE,good,12 minutes 51 seconds
+lennar,polo-ranch,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,145,5,2.7,good overlapping,,,FALSE,FALSE,visual,11 minutes 42 seconds
+lennar,glen-loma-ranch,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,334,10,4.0,good overlapping,bad,,FALSE,TRUE,visual,26 minutes 10 seconds
+brookfield-residential-bay-area,blvd,2019-10-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,225,11,1.6,good overlapping,normal,red,TRUE,TRUE,good,33 minutes 47 seconds
+brookfield-residential-la,the-groves,2019-10-28,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,835,30,5.0,good overlapping,good,white,TRUE,TRUE,good,20 minutes 59 seconds
+fivepoint,mission-village,2019-10-29,good,10.00,E90 (8.29 mm),5472 x 3648,2209,351,3.0,good overlapping,good,white,TRUE,TRUE,good,9 minutes 24 seconds
+brookfield-residential-bay-area,blvd,2019-11-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,224,10,2.3,good overlapping,normal,blue,TRUE,TRUE,good,3 minutes 50 seconds
+independent-construction,placer-vineyards,2019-11-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,641,16,4.0,good overlapping,normal,red,TRUE,TRUE,good,7 minutes 56 seconds
+independent-construction,los-cerros,2019-11-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,535,4,2.3,good overlapping,good,white,FALSE,FALSE,,36 seconds
+brookfield-residential-bay-area,fill-area-1,2019-11-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,108,9,8.7,,,,FALSE,TRUE,visual,1 minutes 50 seconds
+fivepoint,mission-village,2019-11-04,good,10.00,E90 (8.29 mm),5472 x 3648,2206,368,4.2,,,,FALSE,FALSE,,5 minutes 39 seconds
+engeo,treasure-island,2019-11-04,good,10.00,FC6310 (8.8 mm),4864 x 3648,1194,1941,4.4,good overlapping,good,white,TRUE,TRUE,good,3 minutes 50 seconds
+brookfield-residential-la,the-groves,2019-11-04,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,852,49,7.2,good overlapping,good,white,TRUE,TRUE,good,10 minutes 39 seconds
+lennar,tracy-hills,2019-11-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,312,8,8.3,good overlapping,good,white,FALSE,FALSE,visual,49 minutes 32 seconds
+lennar,blvd,2019-11-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,577,9,23.6,good overlapping,,,FALSE,TRUE,visual,3 minutes 43 seconds
+lmc,sherwin-williams,2019-11-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,97,4,2.3,good overlapping,good,white,TRUE,TRUE,good,14 minutes 16 seconds
+engeo,treasure-island,2019-11-09,good,10.00,FC6310 (8.8 mm),4864 x 3648,1178,1951,3.3,good overlapping,good,red,TRUE,TRUE,acceptable,10 minutes 12 seconds
+lennar,gateway,2019-11-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,305,13,5.1,good overlapping,good,white,TRUE,TRUE,good,47 seconds
+independent-construction,los-cerros,2019-11-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,523,5,2.4,good overlapping,good,blue,TRUE,TRUE,good,44 minutes 30 seconds
+independent-construction,placer-vineyards,2019-11-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,678,17,2.7,good overlapping,normal,blue,TRUE,TRUE,acceptable,17 minutes 34 seconds
+brookfield-residential-la,the-groves,2019-11-11,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,834,32,4.2,good overlapping,,,FALSE,FALSE,,10 minutes 29 seconds
+fivepoint,mission-village,2019-11-11,good,10.00,E90 (8.29 mm),5472 x 3648,2229,525,3.6,good overlapping,normal,blue,TRUE,TRUE,good,5 minutes 34 seconds
+lennar,innovation-village,2019-11-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,381,6,4.8,good overlapping,good,white,TRUE,FALSE,good,12 minutes 43 seconds
+brookfield-residential-bay-area,blvd,2019-11-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,11,1.4,good overlapping,good,white,TRUE,FALSE,good,44 seconds
+independent-construction,gilbert-property-phase-1,2019-11-12,good,10.00,FC350 (3.61 mm),4000 x 3000,550,398,6.0,good overlapping,normal,blue,FALSE,TRUE,visual,16 minutes 14 seconds
+independent-construction,wildflower,2019-11-12,good,10.00,FC350 (3.61 mm),4000 x 3000,141,407,5.3,good overlapping,good,white,TRUE,TRUE,good,5 minutes 56 seconds
+sukut-construction,1307-altamont-landfill,2019-11-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,739,6,5.0,,,,FALSE,FALSE,,9 minutes 45 seconds
+lmc,sherwin-williams,2019-11-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,160,4,1.2,good overlapping,good,white,TRUE,TRUE,good,12 minutes 22 seconds
+independent-construction,river-islands,2019-11-14,good,10.00,FC350 (3.61 mm),4000 x 3000,3021,445,8.0,good overlapping,normal,,TRUE,TRUE,acceptable,9 minutes 7 seconds
+independent-construction,river-islands,2019-11-15,good,10.00,FC350 (3.61 mm),4000 x 3000,1108,745,5.9,good overlapping,normal,,TRUE,TRUE,acceptable,47 minutes 56 seconds
+independent-construction,river-islands,2019-11-16,good,10.00,FC350 (3.61 mm),4000 x 3000,1466,513,16.2,good overlapping,normal,,TRUE,TRUE,acceptable,7 minutes 29 seconds
+independent-construction,placer-vineyards,2019-11-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,667,16,6.4,,,,FALSE,FALSE,,3 minutes 10 seconds
+independent-construction,los-cerros,2019-11-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,541,5,2.2,good overlapping,good,white,TRUE,TRUE,good,18 minutes 8 seconds
+brookfield-residential-bay-area,blvd,2019-11-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,227,11,1.3,good overlapping,good,white,TRUE,TRUE,good,2 minutes 8 seconds
+fivepoint,mission-village,2019-11-18,good,10.00,E90 (8.29 mm),5472 x 3648,2195,356,3.5,good overlapping,normal,red,TRUE,TRUE,good,13 minutes 12 seconds
+brookfield-residential-la,the-groves,2019-11-18,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,840,27,7.0,good overlapping,good,white,TRUE,TRUE,acceptable,2 minutes 45 seconds
+lmc,sherwin-williams,2019-11-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,170,4,2.3,good overlapping,good,white,TRUE,TRUE,,2 hours 24 minutes
+independent-construction,los-cerros,2019-11-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,479,4,3.0,good overlapping,good,white,TRUE,TRUE,acceptable,41 minutes 57 seconds
+engeo,treasure-island,2019-11-24,good,10.00,FC6310 (8.8 mm),4864 x 3648,1281,1937,4.6,good overlapping,good,white,TRUE,TRUE,acceptable,48 minutes 52 seconds
+independent-construction,placer-vineyards,2019-11-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,574,15,2.9,good overlapping,good,red,TRUE,TRUE,good,14 minutes 18 seconds
+lennar,gateway,2019-11-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,306,16,10.5,good overlapping,good,white,TRUE,TRUE,good,10 minutes 33 seconds
+independent-construction,creekview,2019-11-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,880,14,3.3,good overlapping,normal,red,TRUE,TRUE,acceptable,3 minutes 45 seconds
+fivepoint,mission-village,2019-11-25,good,,E90 (8.29 mm),5472 x 3648,2211,387,3.2,good overlapping,good,white,TRUE,TRUE,good,43 minutes 45 seconds
+brookfield-residential-bay-area,blvd,2019-11-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,227,11,1.5,good overlapping,good,white,TRUE,FALSE,good,9 minutes 37 seconds
+lennar,innovation-village,2019-11-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,380,6,4.7,good overlapping,good,white,TRUE,FALSE,good,3 minutes 12 seconds
+brookfield-residential-la,the-groves,2019-11-25,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,850,66,4.8,good overlapping,normal,red,TRUE,TRUE,good,7 minutes 43 seconds
+lennar,glen-loma-ranch,2019-11-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,335,8,4.7,good overlapping,normal,white,FALSE,FALSE,visual,19 minutes 3 seconds
+lennar,polo-ranch,2019-11-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,153,4,2.7,good overlapping,bad,blue,FALSE,FALSE,visual,9 minutes 40 seconds
+legacy-partners,livermore,2019-11-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,89,5,2.1,good overlapping,good,white,TRUE,FALSE,good,4 minutes 55 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-11-27,good,10.00,FC220 (4.73 mm),4000 x 3000,308,213,37.5,good overlapping,bad,red-blue,TRUE,TRUE,,18 minutes 22 seconds
+brennan-tucker-homes,the-estates-at-wind-song-hill-addition,2019-11-02,normal,10.00,FC220 (4.73 mm),4000 x 3000,308,269,53.2,good overlapping,bad,red-blue,FALSE,TRUE,,1 hours 32 minutes
+lmc,sherwin-williams,2019-11-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,166,3,1.6,good overlapping,good,white,TRUE,FALSE,good,3 minutes 8 seconds
+independent-construction,los-cerros,2019-11-29,normal,0.05,FC6310R (8.8 mm),5472 x 3648,516,4,2.2,good overlapping,normal,red,TRUE,TRUE,acceptable,7 minutes 26 seconds
+brookfield-residential-bay-area,blvd,2019-11-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,11,1.3,good overlapping,normal,white,TRUE,TRUE,acceptable,9 minutes 54 seconds
+engeo,treasure-island,2019-11-29,good,10.00,FC6310 (8.8 mm),4864 x 3648,1264,2028,4.1,good overlapping,normal,white,TRUE,TRUE,acceptable,5 minutes 38 seconds
+independent-construction,placer-vineyards,2019-11-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,685,16,3.3,good overlapping,good,white,TRUE,TRUE,good,2 minutes 10 seconds
+lennar,faria-preserve,2019-11-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,690,4,4.4,-,--,-,FALSE,FALSE,visual,40 seconds
+brookfield-residential-la,the-groves,2019-12-02,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,977,45,5.6,good overlapping,good,white,TRUE,TRUE,good,6 minutes 14 seconds
+fivepoint,mission-village,2019-12-02,good,10.00,E90 (8.29 mm),5472 x 3648,2219,1939,3.2,good overlapping,normal,white,FALSE,TRUE,acceptable,5 minutes 37 seconds
+plant-construction-company,doyle-drive-phase-3a,2019-12-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,755,4,1.2,good overlapping,,,FALSE,TRUE,acceptable,3 minutes 27 seconds
+plant-construction-company,doyle-drive-phase-3a,2019-12-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,731,6,1.2,good overlapping,good,white,FALSE,TRUE,good,
+lmc,sherwin-williams,2019-12-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,144,5,1.6,good overlapping,good,white,TRUE,FALSE,good,
+lennar,blvd,2019-12-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,567,8,3.5,,,,FALSE,TRUE,visual,
+brookfield-residential-bay-area,blvd,2019-12-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,225,11,1.4,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2019-12-08,good,10.00,FC6310 (8.8 mm),4864 x 3648,1257,1848,3.3,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2019-12-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,369,6,4.2,good overlapping,good,white,TRUE,FALSE,good,
+brookfield-residential-la,the-groves,2019-12-09,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1157,33,5.4,,,,TRUE,TRUE,good,
+traceair,silver-peak,2019-12-06,,0.05,FC6310 (8.8 mm),4864 x 3648,3542,577,577.0,,,,FALSE,FALSE,,
+lennar,gateway,2019-12-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,308,14,4.8,good overlapping,good,blue,TRUE,TRUE,good,
+fivepoint,mission-village,2019-12-09,normal,10.00,E90 (8.29 mm),5472 x 3648,2225,336,3.1,problematic overlap,bad,red-blue,TRUE,TRUE,acceptable,
+lennar,tracy-hills,2019-12-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,312,8,8.4,good overlapping,good,white,FALSE,TRUE,visual,
+plant-construction-company,pier-70,2019-12-11,good,0.05,FC6310R (8.8 mm),5472 x 3648,391,3,2.8,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2019-12-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,151,4,2.6,good overlapping,good,white,TRUE,TRUE,,
+engeo,treasure-island,2019-12-15,good,10.00,FC6310 (8.8 mm),4864 x 3648,1267,2031,3.6,good overlapping,normal,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2019-12-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,220,10,2.3,good overlapping,normal,white,TRUE,FALSE,good,
+brookfield-residential-la,the-groves,2019-12-16,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1162,27,4.6,good overlapping,normal,blue,TRUE,TRUE,good,
+legacy-partners,livermore,2019-12-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,119,4,2.5,good overlapping,good,white,TRUE,TRUE,good,
+fivepoint,mission-village,2019-12-18,good,10.00,E90 (8.29 mm),5472 x 3648,2208,603,3.2,problematic overlap,good,white,TRUE,TRUE,acceptable,
+lennar,gateway,2019-12-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,333,11,5.2,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2019-12-21,good,10.00,FC6310 (8.8 mm),4864 x 3648,1304,1927,6.6,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2019-12-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,225,11,2.3,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2019-12-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,381,6,4.2,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2019-12-19,,0.05,FC6310R (8.8 mm),5472 x 3648,162,4,1.5,good overlapping,good,white,TRUE,TRUE,good,
+fivepoint,mission-village,2019-12-24,bad,10.00,E90 (8.29 mm),5472 x 3648,2338,1953,-,poor overlapping,bad,,FALSE,FALSE,deleted,
+lennar,faria-preserve,2019-12-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,688,4,0.7,good overlapping,-,-,FALSE,FALSE,visual,
+fivepoint,mission-village,2019-12-27,good,10.00,E90 (8.29 mm),5472 x 3648,2350,728,4.7,good overlapping,good,white,TRUE,TRUE,acceptable,
+brookfield-residential-bay-area,blvd,2019-12-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,11,2.4,good overlapping,good,white,TRUE,TRUE,good,
+lennar,polo-ranch,2019-12-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,179,5,4.1,good overlapping,normal,red,FALSE,TRUE,visual,
+lennar,glen-loma-ranch,2019-12-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,336,10,4.8,good overlapping,good,white,FALSE,FALSE,visual,
+lennar,gateway,2020-01-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,338,16,4.8,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-01-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,162,5,1.6,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-01-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,212,12,2.8,good overlapping,good,white,TRUE,TRUE,acceptable,
+engeo,treasure-island,2020-01-05,good,10.00,FC6310 (8.8 mm),4864 x 3648,1267,2013,5.1,good overlapping,normal,blue,TRUE,TRUE,good,
+lennar,innovation-village,2020-01-05,good,,FC6310R (8.8 mm),5472 x 3648,375,7,3.9,,,blue,TRUE,TRUE,good,
+lennar,tracy-hills,2020-01-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,318,4,4.4,good overlapping,normal,,FALSE,FALSE,visual,
+brookfield-residential-la,the-groves,2020-01-06,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1153,27,5.5,good overlapping,good,white,TRUE,FALSE,good,
+lennar,blvd,2020-01-07,normal,0.05,FC6310R (8.8 mm),5472 x 3648,579,4,4.1,good overlapping,normal,,FALSE,FALSE,visual,
+fivepoint,mission-village,2020-01-07,good,,E90 (8.29 mm),5472 x 3648,2279,529,6.8,good overlapping,normal,red,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-01-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,158,3,2.1,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-01-11,good,0.05,FC6310R (8.8 mm),5472 x 3648,230,5,2.5,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+engeo,treasure-island,2020-01-12,good,10.00,FC6310 (8.8 mm),4864 x 3648,1255,1865,5.2,good overlapping,normal,red,TRUE,TRUE,acceptable,
+rmv-realty-inc,pa3-phase-1-grading,2020-01-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,1357,6,5.7,good overlapping,good,,FALSE,TRUE,good,
+rmv-realty-inc,pa3-phase-1-grading,2020-01-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,385,5,1.5,good overlapping,good,,FALSE,TRUE,good,
+brookfield-residential-la,the-groves,2020-01-13,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1164,38,5.6,good overlapping,good,white,TRUE,TRUE,good,
+jmi,19-225-shadow-rock,2020-01-14,good,10.00,FC6310 (8.8 mm),5472 x 3648,620,397,10.2,good overlapping,,,FALSE,FALSE,good,
+engeo,treasure-island,2020-01-19,good,,FC6310 (8.8 mm),4864 x 3648,1292,1879,4.8,problematic overlap,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-01-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,5,2.6,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-01-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,329,5,4.5,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-01-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,162,3,2.6,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-la,fountain-valley,2020-01-17,,10.00,FC6310S (8.8 mm),4864 x 3648,402,61,1.8,,,,FALSE,FALSE,good,
+lennar,innovation-village,2020-01-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,407,3,5.1,good overlapping,good,white,TRUE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,581,4,5.7,good overlapping,normal,red-blue,FALSE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,2,4.6,good overlapping,good,white,FALSE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-01-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,3,4.4,good overlapping,normal,red-blue,FALSE,TRUE,acceptable,
+brookfield-residential-la,the-groves,2020-01-21,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1160,28,5.7,good overlapping,normal,white,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,392,3,4.7,good overlapping,good,white,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,391,31,4.9,good overlapping,good,white,FALSE,FALSE,acceptable,
+rmv-realty-inc,pa3-phase-1-grading,2020-01-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,2823,11,4.8,good overlapping,normal,red,FALSE,FALSE,good,
+fivepoint,mission-village,2020-01-20,good,10.00,E90 (8.29 mm),5472 x 3648,2284,541,5.6,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,391,3,4.7,good overlapping,normal,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-01-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,1361,15,1.8,good overlapping,normal,,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,1900-01-15,good,-,-,-,-,-,-,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,1901-01-15,good,-,-,-,-,-,-,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,1900-01-16,good,-,-,-,-,-,-,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,1901-01-16,good,-,-,-,-,-,-,good overlapping,normal,,FALSE,FALSE,acceptable,
+engeo,treasure-island,2020-01-26,good,10.00,FC6310 (8.8 mm),4864 x 3648,1268,2018,4.8,good overlapping,normal,white,TRUE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,6,4.8,good overlapping,normal,,FALSE,FALSE,acceptable,
+brookfield-residential-la,the-groves,2020-01-27,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1162,27,4.6,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,6,6.1,good overlapping,normal,,FALSE,FALSE,acceptable,
+lmc,sherwin-williams,2020-01-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,156,2,1.9,good overlapping,good,white,TRUE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,580,5,5.0,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,3.0,good overlapping,good,white,FALSE,FALSE,good,
+brookfield-residential-bay-area,blvd,2020-01-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,230,5,1.7,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,776,10,6.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,2.3,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-01-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,385,24,5.2,,,,FALSE,FALSE,acceptable,
+lennar,faria-preserve,2020-01-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,748,3,0.3,,,,FALSE,FALSE,acceptable,
+lennar,glen-loma-ranch,2020-01-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,319,4,3.7,,,,FALSE,FALSE,acceptable,
+lennar,polo-ranch,2020-01-26,,0.05,FC6310R (8.8 mm),5472 x 3648,173,2,3.7,,,,FALSE,FALSE,visual,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-27,,0.05,FC6310R (8.8 mm),5472 x 3648,776,4,5.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-27,,0.05,FC6310R (8.8 mm),5472 x 3648,776,63,4.8,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,776,5,5.8,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,782,5,4.7,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-01-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,93,2.1,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-29,,0.05,FC6310R (8.8 mm),5472 x 3648,195,6,4.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-01-30,,0.05,FC6310R (8.8 mm),5472 x 3648,196,4,4.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-01-30,,0.05,FC6310R (8.8 mm),5472 x 3648,195,4,4.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-01-30,,0.05,FC6310R (8.8 mm),5472 x 3648,195,4,4.0,,,,FALSE,FALSE,acceptable,
+lmc,sherwin-williams,2020-01-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,162,3,1.9,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-02-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,332,6,5.9,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-02-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,378,3,4.1,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-02-01,good,10.00,FC6310 (8.8 mm),4864 x 3648,1277,1986,4.1,good overlapping,good,red,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-01-31,good,0.05,FC6310R (8.8 mm),5472 x 3648,226,5,1.8,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-02-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,749,5,6.2,good overlapping,good,white,FALSE,FALSE,,
+brookfield-residential-la,the-groves,2020-02-03,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1114,65,5.3,good overlapping,good,white,TRUE,TRUE,good,
+aanrg,yantis---millbrook1a,2020-02-04,good,10.00,FC6310 (8.8 mm),4864 x 3648,393,302,302.3,good overlapping,,,FALSE,TRUE,good,
+fivepoint,mission-village,2020-02-05,good,,E90 (8.29 mm),5472 x 3648,2302,387,3.9,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,580,5,5.3,good overlapping,normal,red,FALSE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,6,2.9,good overlapping,normal,,FALSE,TRUE,acceptable,
+lmc,sherwin-williams,2020-02-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,164,3,2.3,good overlapping,good,white,TRUE,TRUE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,336,5,4.4,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,1166,4,6.2,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,385,5,5.3,good overlapping,good,white,FALSE,FALSE,good,
+engeo,treasure-island,2020-02-08,good,10.00,FC6310 (8.8 mm),4864 x 3648,1269,2049,4.7,good overlapping,good,white,TRUE,TRUE,acceptable,
+lennar,blvd,2020-02-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,579,4,3.8,good overlapping,good,white,FALSE,FALSE,visual,
+brookfield-residential-bay-area,blvd,2020-02-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,6,1.8,good overlapping,good,white,TRUE,TRUE,good,
+lennar,tracy-hills,2020-02-07,,0.05,FC6310R (8.8 mm),5472 x 3648,584,5,4.9,good overlapping,good,white,FALSE,FALSE,visual,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,3,5.1,good overlapping,good,white,FALSE,FALSE,good,
+plant-construction-company,pier-70,2020-02-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,325,2,3.0,good overlapping,good,blue,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,580,4,5.1,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-11,good,0.05,FC6310R (8.8 mm),5472 x 3648,391,4,3.2,good overlapping,good,white,FALSE,FALSE,good,
+brookfield-residential-la,the-groves,2020-02-12,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1140,42,3.8,good overlapping,good,white,TRUE,TRUE,acceptable,
+lmc,sherwin-williams,2020-02-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,161,2,2.1,good overlapping,good,white,TRUE,TRUE,good,
+independent-construction,creekview,2020-02-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,981,6,4.8,good overlapping,normal,,FALSE,TRUE,visual,
+engeo,treasure-island,2020-02-16,good,10.00,FC6310 (8.8 mm),4864 x 3648,1259,1826,5.5,,,,FALSE,FALSE,,
+brookfield-residential-bay-area,blvd,2020-02-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,218,6,2.0,good overlapping,good,blue,TRUE,TRUE,acceptable,
+lennar,gateway,2020-02-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,354,5,6.0,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-02-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,376,3,3.8,good overlapping,normal,red,TRUE,TRUE,good,
+fivepoint,mission-village,2020-02-17,good,,E90 (8.29 mm),5472 x 3648,2282,474,3.3,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,4,5.8,good overlapping,good,,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,1361,10,5.6,good overlapping,good,,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,156,4,4.3,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-02-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,214,3,8.1,good overlapping,good,,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2005-02-18,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,4,5.6,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-19,,0.05,FC6310R (8.8 mm),5472 x 3648,385,5,-,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-19,,0.05,FC6310R (8.8 mm),5472 x 3648,195,3,3.6,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-19,,0.05,FC6310R (8.8 mm),5472 x 3648,390,5,4.8,,,,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-02-19,good,0.05,FC6310R (8.8 mm),5472 x 3648,544,3,5.2,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2005-02-19,,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,5.0,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2006-02-19,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,6,3.9,good overlapping,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2007-02-19,,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,3.1,,,,FALSE,FALSE,,
+lmc,sherwin-williams,2020-02-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,158,3,2.6,good overlapping,good,white,TRUE,TRUE,good,
+rmv-realty-inc,pa3-phase-1-grading,2020-02-21,good,-,-,-,-,-,-,good overlapping,normal,red,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-02-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,219,5,1.5,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-la,the-groves,2020-02-18,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1164,42,4.3,good overlapping,good,white,TRUE,TRUE,good,
+plant-construction-company,doyle-drive-phase-3a,2020-02-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,670,3,1.0,good overlapping,good,white,FALSE,TRUE,good,
+engeo,treasure-island,2020-02-23,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1259,1895,3.9,good overlapping,normal,red,TRUE,TRUE,good,
+lennar,faria-preserve,2020-02-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,745,3,0.9,,,,FALSE,FALSE,,
+brookfield-residential-la,the-groves,2020-02-24,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1145,32,5.0,,,,FALSE,FALSE,,
+legacy-partners,livermore,2020-02-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,105,3,1.9,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,4.2,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-25,,0.05,FC6310R (8.8 mm),5472 x 3648,391,9,4.5,good overlapping,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-25,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,19,5.8,good overlapping,normal,white,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-25,,0.05,FC6310R (8.8 mm),5472 x 3648,195,3,7.3,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-02-25,good,0.05,FC6310R (8.8 mm),5472 x 3648,393,3,4.9,good overlapping,normal,red,TRUE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,4,4.7,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-26,,0.05,FC6310R (8.8 mm),5472 x 3648,195,3,2.6,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-26,,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,6.0,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-02-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,6,5.6,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2005-02-26,,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,5.1,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-27,,0.05,FC6310R (8.8 mm),5472 x 3648,390,4,2.7,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-02-27,,0.05,FC6310R (8.8 mm),5472 x 3648,195,4,5.6,,,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-02-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,18,5.9,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-02-27,,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,5.4,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2005-02-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,4,5.2,good overlapping,normal,red,FALSE,FALSE,acceptable,
+lmc,sherwin-williams,2020-02-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,164,2,2.4,good overlapping,normal,white,TRUE,TRUE,acceptable,
+brookfield-residential-bay-area,blvd,2020-02-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,226,5,1.5,good overlapping,normal,,TRUE,TRUE,acceptable,
+engeo,treasure-island,2020-03-01,good,10.00,FC6310 (8.8 mm),4864 x 3648,1268,1902,18.0,good overlapping,normal,red,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-02-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,975,4,4.1,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,586,6,5.6,good overlapping,normal,blue,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-02,,0.05,FC6310R (8.8 mm),5472 x 3648,195,3,5.7,,,,FALSE,FALSE,,
+brookfield-residential-la,the-groves,2020-03-02,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1167,44,4.4,good overlapping,good,white,TRUE,TRUE,good,
+fivepoint,mission-village,2020-03-03,good,10.00,E90 (8.29 mm),5472 x 3648,1965,450,3.0,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,6,2.9,good overlapping,good,red,FALSE,FALSE,good,
+lennar,gateway,2020-03-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,314,6,5.4,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-03-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,412,3,3.5,good overlapping,normal,red,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,6,3.6,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,585,5,3.7,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-03-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,4,2.9,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,7.0,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,5,3.9,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,970,15,2.9,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-03-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,382,4,2.9,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-03-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,6,4.6,good overlapping,normal,red,FALSE,FALSE,acceptable,
+lennar,blvd,2020-03-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,596,3,4.1,good overlapping,good,white,FALSE,FALSE,visual,
+brookfield-residential-bay-area,blvd,2020-03-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,228,5,1.8,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,200,5,4.2,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+lennar,tracy-hills,2020-03-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,589,5,0.1,good overlapping,bad,red,FALSE,FALSE,visual,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,775,6,5.3,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,4,3.1,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+brookfield-residential-la,the-groves,2020-03-09,normal,10.00,L1D-20c (10.26 mm),5472 x 3648,1310,176,12.1,good overlapping,bad,red-blue,FALSE,FALSE,bad,
+lmc,sherwin-williams,2020-03-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,157,3,2.4,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-03-08,good,10.00,FC6310 (8.8 mm),4864 x 3648,1334,2037,2.5,good overlapping,normal,red,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-03-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,157,2,2.0,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-03-13,good,0.05,FC6310R (8.8 mm),5472 x 3648,221,5,1.4,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-03-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,391,3,3.1,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-03-16,,0.05,FC6310R (8.8 mm),5472 x 3648,360,5,4.0,,,,FALSE,FALSE,,
+engeo,treasure-island,2020-03-16,,10.00,FC6310 (8.8 mm),4864 x 3648,1342,2092,3.0,,normal,red-blue,FALSE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-17,normal,0.05,FC6310R (8.8 mm),5472 x 3648,196,3,7.6,good overlapping,good,white,TRUE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,4,4.7,good overlapping,normal,red,FALSE,FALSE,acceptable,
+brookfield-residential-la,the-groves,2020-03-18,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1141,32,4.9,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-03-19,good,0.05,FC6310R (8.8 mm),5472 x 3648,158,3,1.9,good overlapping,good,,FALSE,FALSE,,
+engeo,treasure-island,2020-03-21,good,10.00,FC6310 (8.8 mm),4864 x 3648,1319,2021,4.1,problematic overlap,normal,red,TRUE,TRUE,acceptable,
+brookfield-residential-bay-area,blvd,2020-03-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,224,5,1.6,good overlapping,normal,red,TRUE,TRUE,acceptable,
+brookfield-residential-la,the-groves,2020-03-24,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,918,34,4.5,good overlapping,good,white,TRUE,TRUE,good,
+lennar,faria-preserve,2020-03-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,738,2,0.4,problematic overlap,bad,blue,FALSE,FALSE,visual,
+lmc,sherwin-williams,2020-03-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,158,3,3.0,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-03-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,328,5,5.2,,,,FALSE,FALSE,,
+plant-construction-company,pier-70,2020-03-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,345,2,3.3,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-03-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,384,3,3.7,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-03-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,236,5,1.3,good overlapping,good,white,TRUE,TRUE,acceptable,
+engeo,treasure-island,2020-03-30,good,,FC6310 (8.8 mm),4864 x 3648,1352,2070,1.8,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-la,the-groves,2020-03-31,,,senseFly Aeria X (18.5 mm),6000 x 4000,1150,43,4.4,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-03-31,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,5.3,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,392,5,3.8,good overlapping,normal,,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-03-31,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,4.0,good overlapping,good,white,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-04-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,197,6,3.4,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-04-01,,0.05,FC6310R (8.8 mm),5472 x 3648,196,5,4.9,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2003-04-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,5.5,good overlapping,normal,red,TRUE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2004-04-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,5,5.0,good overlapping,normal,red,FALSE,FALSE,acceptable,
+brookfield-residential-bay-area,blvd,2020-04-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,221,5,1.5,good overlapping,good,white,TRUE,TRUE,acceptable,
+pedregal,mine,2020-04-03,good,10.00,FC350 (3.61 mm),4000 x 3000,640,527,33.4,good overlapping,,,FALSE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-03-31,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,5,3.6,good overlapping,good,white,FALSE,FALSE,acceptable,
+rmv-realty-inc,pa3-phase-1-grading,2020-04-02,good,10.00,FC6310R (8.8 mm),5472 x 3648,4730,58,6.7,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-04-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,5,4.9,good overlapping,good,white,FALSE,FALSE,acceptable,
+lmc,sherwin-williams,2020-04-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,157,3,2.6,good overlapping,good,white,FALSE,FALSE,good,
+lennar,blvd,2020-04-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,579,3,3.8,good overlapping,,,FALSE,FALSE,visual,
+lennar,tracy-hills,2020-04-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,594,4,0.5,good overlapping,,,FALSE,FALSE,visual,
+brookfield-residential-la,the-groves,2020-04-08,,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1145,50,4.4,good overlapping,normal,red,TRUE,TRUE,acceptable,
+lmc,sherwin-williams,2020-04-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,138,3,2.4,good overlapping,good,white,TRUE,FALSE,good,
+brookfield-residential-bay-area,blvd,2020-04-10,good,0.05,FC6310R (8.8 mm),5472 x 3648,276,4,1.7,good overlapping,normal,red,TRUE,TRUE,acceptable,
+lennar,innovation-village,2020-04-12,good,0.05,FC6310R (8.8 mm),5472 x 3648,377,3,2.8,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-04-12,good,10.00,FC6310 (8.8 mm),4864 x 3648,1338,2019,2.0,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-04-12,good,,FC6310R (8.8 mm),5472 x 3648,333,5,4.9,good overlapping,good,white,FALSE,TRUE,good,
+brookfield-residential-la,the-groves,2020-04-13,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1142,42,5.0,,,,FALSE,FALSE,,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-04-10,good,,FC350 (3.61 mm),4000 x 3000,779,548,5.1,,,,FALSE,FALSE,acceptable,
+lmc,sherwin-williams,2020-04-16,good,0.05,FC6310R (8.8 mm),5472 x 3648,162,3,2.4,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-04-19,good,10.00,FC6310 (8.8 mm),4864 x 3648,1350,1996,1.8,good overlapping,good,white,TRUE,TRUE,good,
+pedregal,mine,2020-04-17,normal,10.00,FC350 (3.61 mm),4000 x 3000,544,676,41.4,,normal,red,FALSE,TRUE,acceptable,
+brookfield-residential-la,the-groves,2020-04-21,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1133,32,4.8,good overlapping,normal,red,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-04-17,good,0.05,FC6310R (8.8 mm),5472 x 3648,255,4,1.3,good overlapping,good,white,TRUE,TRUE,acceptable,
+lmc,sherwin-williams,2020-04-23,good,0.05,FC6310R (8.8 mm),5472 x 3648,161,2,3.0,good overlapping,good,white,TRUE,TRUE,good,
+lennar,faria-preserve,2020-04-23,good,,FC6310R (8.8 mm),5472 x 3648,782,3,1.1,good overlapping,bad,,FALSE,FALSE,visual,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-04-24,good,10.00,FC350 (3.61 mm),4000 x 3000,721,521,3.7,good overlapping,normal,blue,FALSE,FALSE,good,
+brookfield-residential-bay-area,blvd,2020-04-24,,0.05,FC6310R (8.8 mm),5472 x 3648,230,5,1.6,good overlapping,good,white,TRUE,TRUE,acceptable,
+brookfield-residential-bay-area,orfanos,2020-04-24,,0.05,FC6310R (8.8 mm),5472 x 3648,119,5,1.8,good overlapping,-,-,FALSE,FALSE,good,
+lennar,innovation-village,2020-04-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,409,3,3.2,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,parklane,2020-04-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,233,5,5.5,good overlapping,,,FALSE,FALSE,visual,
+engeo,treasure-island,2020-04-26,good,10.00,FC6310 (8.8 mm),4864 x 3648,1354,1949,2.0,good overlapping,normal,blue,TRUE,TRUE,good,
+brookfield-residential-bay-area,university-district,2020-04-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,925,4,3.8,good overlapping,normal,,FALSE,FALSE,visual,
+pedregal,cdp-belen,2020-04-22,good,10.00,L1D-20c (10.26 mm),5472 x 3648,256,165,6.3,good overlapping,,,FALSE,FALSE,,
+brookfield-residential-la,the-groves,2020-04-27,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1165,35,4.2,good overlapping,good,white,TRUE,TRUE,good,
+lennar,gateway,2020-04-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,358,5,7.2,good overlapping,normal,blue,TRUE,TRUE,good,
+lennar,lafayette,2020-04-28,good,,FC6310R (8.8 mm),5472 x 3648,120,2,0.4,good overlapping,good,,FALSE,FALSE,,
+plant-construction-company,pier-70,2020-04-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,465,2,3.8,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-04-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,1602,4,7.6,good overlapping,good,red,TRUE,TRUE,acceptable,
+lmc,sherwin-williams,2020-04-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,124,2,1.6,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-04-30,good,0.05,FC6310R (8.8 mm),5472 x 3648,1955,2,5.1,,,,FALSE,FALSE,good,
+pedregal,mine,2020-04-30,good,10.00,FC350 (3.61 mm),4000 x 3000,489,650,19.3,,,,FALSE,FALSE,good,
+rmv-realty-inc,pa3-phase-1-grading,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,4730,3,5.6,,,,FALSE,FALSE,good,
+brookfield-residential-bay-area,blvd,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,218,5,1.4,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-05-02,good,10.00,FC6310 (8.8 mm),4864 x 3648,1345,2005,1.8,problematic overlap,normal,,TRUE,TRUE,acceptable,
+plant-construction-company,doyle-drive-phase-3a,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,742,3,1.1,good overlapping,normal,red,FALSE,FALSE,acceptable,
+brookfield-residential-bay-area,orfanos,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,191,5,2.8,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,university-district,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,917,4,4.4,good overlapping,,,FALSE,FALSE,visual,
+brookfield-residential-la,the-groves,2020-05-05,normal,0.05,L1D-20c (10.26 mm),5472 x 3648,1756,80,4.8,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+lennar,blvd,2020-05-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,612,3,2.5,good overlapping,good,white,FALSE,TRUE,good,
+lmc,sherwin-williams,2020-05-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,123,3,2.2,,,,FALSE,FALSE,,
+brookfield-residential-bay-area,parklane,2020-05-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,424,4,3.9,good overlapping,,,FALSE,FALSE,visual,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-05-01,good,10.00,FC350 (3.61 mm),4000 x 3000,708,522,5.3,good overlapping,normal,blue,FALSE,FALSE,good,
+independent-construction,meadowlands,2020-05-01,good,10.00,FC350 (3.61 mm),4000 x 3000,610,270,3.5,good overlapping,good,white,FALSE,FALSE,good,
+brookfield-residential-bay-area,blvd,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,229,5,1.5,good overlapping,good,blue,TRUE,TRUE,good,
+brookfield-residential-bay-area,parklane,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,316,5,2.2,good overlapping,,,FALSE,FALSE,visual,
+independent-construction,meadowlands,2020-05-08,good,10.00,FC350 (3.61 mm),4000 x 3000,541,270,6.2,good overlapping,good,blue,TRUE,TRUE,good,
+lennar,tracy-hills,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,586,5,0.4,,,,FALSE,FALSE,visual,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-05-08,good,10.00,FC350 (3.61 mm),4000 x 3000,869,443,3.1,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,orfanos,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,160,5,2.0,good overlapping,good,white,FALSE,FALSE,good,
+brookfield-residential-bay-area,university-district,2020-05-08,normal,0.05,FC6310R (8.8 mm),5472 x 3648,833,5,2.8,good overlapping,,,FALSE,FALSE,visual,
+brookfield-residential-la,the-groves,2020-05-11,normal,0.05,L1D-20c (10.26 mm),5472 x 3648,1846,61,4.7,good overlapping,normal,red,TRUE,TRUE,acceptable,
+lennar,gateway,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,363,5,4.7,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-05-08,good,0.05,FC6310R (8.8 mm),5472 x 3648,383,3,3.7,good overlapping,good,white,TRUE,TRUE,good,
+engeo,treasure-island,2020-05-10,good,10.00,FC6310 (8.8 mm),4864 x 3648,1360,1942,1.9,problematic overlap,normal,red,TRUE,TRUE,acceptable,
+jmi,19-223-orchard-run,2020-05-08,good,10.00,FC6310 (8.8 mm),5472 x 3648,700,457,3.4,good overlapping,,,FALSE,FALSE,good,
+jmi,19-235-menifee-ms,2020-05-13,good,10.00,FC6310 (8.8 mm),5472 x 3648,90,357,0.6,good overlapping,,,FALSE,FALSE,good,
+lmc,sherwin-williams,2020-05-14,good,0.05,FC6310R (8.8 mm),5472 x 3648,134,3,3.6,,,,FALSE,FALSE,,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-05-15,good,10.00,FC350 (3.61 mm),4000 x 3000,720,427,4.2,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,university-district,2020-05-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,975,4,1.2,good overlapping,good,white,FALSE,FALSE,visual,
+brookfield-residential-bay-area,orfanos,2020-05-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,166,4,1.8,good overlapping,good,white,FALSE,FALSE,good,
+brookfield-residential-bay-area,parklane,2020-05-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,306,5,1.8,good overlapping,good,white,FALSE,TRUE,visual,
+pedregal,mine,2020-05-15,good,10.00,FC350 (3.61 mm),4000 x 3000,479,690,15.5,good overlapping,normal,red,FALSE,TRUE,acceptable,
+brookfield-residential-bay-area,blvd,2020-05-15,good,0.05,FC6310R (8.8 mm),5472 x 3648,233,5,1.7,good overlapping,good,white,TRUE,TRUE,good,
+independent-construction,meadowlands,2020-05-15,good,10.00,FC350 (3.61 mm),4000 x 3000,567,271,5.1,good overlapping,good,white,FALSE,TRUE,good,
+engeo,treasure-island,2020-05-16,normal,10.00,FC6310 (8.8 mm),4864 x 3648,1345,1922,2.6,problematic overlap,good,white,FALSE,FALSE,good,
+brookfield-residential-la,the-groves,2020-05-19,normal,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1221,67,5.8,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-05-20,good,0.05,FC6310R (8.8 mm),5472 x 3648,1004,2,4.0,good overlapping,normal,red,FALSE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-05-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,2.2,good overlapping,normal,red,FALSE,TRUE,,
+d-r-horton,walker-drive,2020-05-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,103,3,7.2,good overlapping,normal,red,TRUE,TRUE,acceptable,
+independent-construction,meadowlands,2020-05-22,good,10.00,FC350 (3.61 mm),4000 x 3000,380,370,5.1,good overlapping,normal,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,243,5,1.3,good overlapping,good,white,TRUE,TRUE,good,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-05-22,good,10.00,FC350 (3.61 mm),4000 x 3000,750,372,4.1,good overlapping,good,white,TRUE,FALSE,good,
+engeo,treasure-island,2020-05-24,good,10.00,FC6310 (8.8 mm),4864 x 3648,1350,1913,2.5,good overlapping,good,white,TRUE,TRUE,good,
+bay-cities-paving-and-grading,b014-030-route-132-99-city-of-modesto-phase-1,2020-05-24,good,0.05,FC6310R (8.8 mm),5472 x 3648,2215,10,9.5,,,,FALSE,FALSE,,
+brookfield-residential-bay-area,orfanos,2020-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,176,5,2.1,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-05-21,good,0.05,FC6310R (8.8 mm),5472 x 3648,137,3,2.3,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,university-district,2020-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,842,5,-,good overlapping,,,FALSE,FALSE,visual,
+lennar,innovation-village,2020-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,378,3,3.2,good overlapping,good,white,TRUE,TRUE,good,
+independent-construction,placer-vineyards,2020-05-22,good,10.00,FC350 (3.61 mm),4000 x 3000,960,502,12.6,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+lennar,gateway,2020-05-22,good,0.05,FC6310R (8.8 mm),5472 x 3648,330,5,5.9,good overlapping,normal,red,TRUE,TRUE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-05-26,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,3.8,good overlapping,good,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-05-27,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,3,3.2,good overlapping,normal,red,FALSE,FALSE,acceptable,
+brookfield-residential-bay-area,blvd,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,233,5,1.8,good overlapping,good,red,TRUE,TRUE,good,
+brookfield-residential-bay-area,university-district,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,901,4,1.5,good overlapping,,,FALSE,FALSE,visual,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-05-29,good,10.00,FC350 (3.61 mm),4000 x 3000,755,400,4.1,good overlapping,good,white,TRUE,TRUE,good,
+lmc,sherwin-williams,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,136,2,4.2,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,orfanos,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,5,2.4,good overlapping,good,white,TRUE,TRUE,good,
+plant-construction-company,pier-70,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,504,2,4.0,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-05-29,good,0.05,FC6310R (8.8 mm),5472 x 3648,196,3,4.6,good overlapping,good,,FALSE,FALSE,good,
+engeo,treasure-island,2020-05-31,good,10.00,FC6310 (8.8 mm),4864 x 3648,1352,2037,2.1,good overlapping,good,red,TRUE,FALSE,good,
+lennar,faria-preserve,2020-05-28,good,0.05,FC6310R (8.8 mm),5472 x 3648,702,3,57.0,good overlapping,normal,red,FALSE,FALSE,acceptable,
+independent-construction,placer-vineyards,2020-05-29,good,10.00,FC350 (3.61 mm),4000 x 3000,1124,540,9.5,good overlapping,normal,blue,TRUE,TRUE,acceptable,
+brookfield-residential-la,the-groves,2020-06-01,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1230,81,4.6,good overlapping,normal,blue,TRUE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-06-01,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,1.7,good overlapping,normal,white,FALSE,FALSE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-06-02,good,0.05,FC6310R (8.8 mm),5472 x 3648,413,2,2.8,good overlapping,normal,red,FALSE,FALSE,acceptable,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2002-06-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,4.6,good overlapping,good,white,FALSE,FALSE,good,
+lmc,sherwin-williams,2020-06-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,133,3,1.2,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-06-03,good,0.05,FC6310R (8.8 mm),5472 x 3648,390,2,4.3,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+independent-construction,placer-vineyards,2020-06-05,good,10.00,FC350 (3.61 mm),4000 x 3000,1222,428,9.3,,,,FALSE,FALSE,,
+lennar,gateway,2020-06-06,good,0.05,FC6310R (8.8 mm),5472 x 3648,338,5,6.2,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,blvd,2020-06-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,241,5,2.4,good overlapping,good,white,TRUE,TRUE,good,
+lennar,innovation-village,2020-06-06,,0.05,FC6310R (8.8 mm),5472 x 3648,367,3,3.4,good overlapping,good,white,TRUE,TRUE,good,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2001-06-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,4.4,good overlapping,normal,,FALSE,FALSE,good,
+independent-construction,meadowlands,2020-06-05,good,10.00,FC350 (3.61 mm),4000 x 3000,375,436,4.3,good overlapping,good,red,TRUE,TRUE,good,
+lennar,blvd,2020-06-07,normal,0.05,FC6310R (8.8 mm),5472 x 3648,672,4,3.4,good overlapping,,,FALSE,FALSE,visual,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-06-05,good,0.05,FC6310R (8.8 mm),5472 x 3648,195,2,0.5,good overlapping,normal,blue,FALSE,FALSE,acceptable,
+lennar,tracy-hills,2020-06-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,587,4,0.4,good overlapping,bad,,FALSE,FALSE,visual,
+brookfield-residential-bay-area,orfanos,2020-06-04,good,0.05,FC6310R (8.8 mm),5472 x 3648,190,4,3.5,good overlapping,normal,red,FALSE,FALSE,good,
+brookfield-residential-bay-area,university-district,2020-06-07,good,0.05,FC6310R (8.8 mm),5472 x 3648,898,4,2.3,good overlapping,,,FALSE,FALSE,visual,
+engeo,treasure-island,2020-06-08,good,,FC6310 (8.8 mm),4864 x 3648,1338,2060,2.0,,,,FALSE,FALSE,,
+as-builts,rmv-realty-inc-pa3-phase-1-grading,2020-06-09,good,0.05,FC6310R (8.8 mm),5472 x 3648,608,2,3.9,good overlapping,good,,FALSE,FALSE,good,
+brookfield-residential-la,the-groves,2020-06-08,good,0.05,senseFly Aeria X (18.5 mm),6000 x 4000,1233,52,4.7,good overlapping,good,white,TRUE,TRUE,good,
+independent-construction,fiddyment-ranch---phase-3a-3b,2020-06-05,good,,FC350 (3.61 mm),4000 x 3000,807,351,4.3,good overlapping,good,white,TRUE,TRUE,good,
+brookfield-residential-bay-area,parklane,2020-06-11,good,0.05,FC6310R (8.8 mm),5472 x 3648,338,4,4.4,good overlapping,,,FALSE,FALSE,visual,
+rmv-realty-inc,pa3-phase-1-grading,2020-06-11,good,0.05,FC6310R (8.8 mm),5472 x 3648,4342,4,4.1,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,FALSE,,,
+,,,,,,,,,,,,,FALSE,,,
+,,,,,,,,,,,,,FALSE,,,
+,,,,,,,,,,,,,FALSE,,,
